@@ -160,6 +160,7 @@ layout my_layout
 			\cavename={Grotte Horvath} 		
 		\else % if not empty keep the value set by therion, or assign an override cavename here
 		\fi
+		\newtoks\wpage \wpage={https://github.com/robertxa/Fontaine-Noire}
 		\newtoks\club \club={Groupe Spéléologique Vulcain}
 	endcode  
 
@@ -303,6 +304,7 @@ layout my_layout-coupe
 			\cavename={Grotte Horvath}
 		\else % if not empty keep the value set by therion, or assign an override cavename here
 		\fi
+		\newtoks\wpage \wpage={https://github.com/robertxa/Fontaine-Noire}
 		\newtoks\club \club={Groupe Spéléologique Vulcain}
 	endcode  
 

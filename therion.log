@@ -26,7 +26,7 @@ calculating basic statistics ... done
 processing extended elevation ... done
 processing references ... done
 selecting export objects ... 
-therion: warning -- Horvath.thconfig [329] -- object not found -- "MC-Horvath-coupe"
+therion: warning -- Horvath.thconfig [331] -- object not found -- "MC-Horvath-coupe"
 done
 processing projection plan ... done
 average distortion: 0.00%
@@ -40,7 +40,7 @@ S     -.-- @ ()
 ########## end of export maps & scraps selection ###############
 writing Outputs/Horvath-coupe.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.999 (TeX Live 2015) (kpathsea version 6.2.1)  28 NOV 2023 10:35
+This is MetaPost, version 1.999 (TeX Live 2015) (kpathsea version 6.2.1)  28 NOV 2023 11:16
 **data.mp
 (/usr/local/texlive/2015/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2015/texmf-dist/metapost/base/plain.mp
@@ -63,7 +63,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2016.5.13)  28 NOV 2023 10:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2016.5.13)  28 NOV 2023 11:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -78,7 +78,7 @@ tex.map})
 Here is how much of TeX's memory you used:
  306 strings out of 494671
  4173 string characters out of 6148971
- 166820 words of memory out of 5000000
+ 166863 words of memory out of 5000000
  1935 multiletter control sequences out of 15000+600000
  21194 words of font info for 66 fonts, out of 8000000 for 9000
  1420 hyphenation exceptions out of 8191
@@ -89,7 +89,7 @@ Here is how much of TeX's memory you used:
 pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cs/csss10.pfb></usr/
 local/texlive/2015/texmf-dist/fonts/type1/public/cs/csssi10.pfb></usr/local/tex
 live/2015/texmf-dist/fonts/type1/public/cs/csti10.pfb>
-Output written on data.pdf (1 page, 82761 bytes).
+Output written on data.pdf (1 page, 83019 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
@@ -112,7 +112,7 @@ S  1174.46 SP-Horvath-1@Horvath ()
 ########## end of export maps & scraps selection ###############
 writing Outputs/Horvath-plan.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.999 (TeX Live 2015) (kpathsea version 6.2.1)  28 NOV 2023 10:35
+This is MetaPost, version 1.999 (TeX Live 2015) (kpathsea version 6.2.1)  28 NOV 2023 11:16
 **data.mp
 (/usr/local/texlive/2015/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2015/texmf-dist/metapost/base/plain.mp
@@ -141,7 +141,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2016.5.13)  28 NOV 2023 10:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2016.5.13)  28 NOV 2023 11:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -156,7 +156,7 @@ tex.map})
 Here is how much of TeX's memory you used:
  341 strings out of 494671
  4581 string characters out of 6148971
- 63950 words of memory out of 5000000
+ 63993 words of memory out of 5000000
  1970 multiletter control sequences out of 15000+600000
  21194 words of font info for 66 fonts, out of 8000000 for 9000
  1420 hyphenation exceptions out of 8191
@@ -167,7 +167,7 @@ pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.
 pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.p
 fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cs/csss10.pfb></usr/l
 ocal/texlive/2015/texmf-dist/fonts/type1/public/cs/csssi10.pfb>
-Output written on data.pdf (1 page, 160009 bytes).
+Output written on data.pdf (1 page, 160154 bytes).
 PDF statistics:
  134 PDF objects out of 1000 (max. 8388607)
  73 compressed objects within 1 object stream
@@ -180,8 +180,7 @@ done
 writing Outputs/Horvath.lox ......... done
 writing Outputs/Horvath.kml ... done
 writing Outputs/Horvath-filaire.kml ... done
-writing xtherion file ... done
-compilation time: 4 sec
+compilation time: 5 sec
 
 
 ######################### loop errors ##########################
