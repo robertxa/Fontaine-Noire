@@ -60,7 +60,10 @@ Xavier Robert (xavier.robert@ird.fr)
 How to cite
 -----------
 
-Robert, X., Base de données Topographiques du système karstique de Fontaine Noire du Guiers (Chartreuse, 38, France), https://github.com/robertxa/Fontaine-Noire, 2023. 
+Robert, X., Base de données Topographiques du système karstique de Fontaine Noire du Guiers (Chartreuse, 38, France), https://github.com/robertxa/Fontaine-Noire, DOI:10.5281/Zenodo.10213063, 2023. 
+
+.. image:: https://zenodo.org/badge/724549245.svg
+  :target: https://zenodo.org/doi/10.5281/zenodo.10213062
 
 Contact
 -------
