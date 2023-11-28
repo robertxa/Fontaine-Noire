@@ -1,0 +1,31 @@
+encoding  utf-8
+
+# Copyright (C) 2023 Xavier Robert <xavier.robert***@***ird.fr>
+# This work is under the Creative Commons Attribution-ShareAlike-NonCommecial License:
+#	<http://creativecommons.org/licenses/by-nc-sa/4.0/> 
+ 
+survey Horvath -title "Résurgence de Fontaine Noire - Grotte Horvath"
+
+# Pour importer les différentes données de différents fichiers topos : 
+   input Data/Horvath.th
+   # Patit porche à côté de la grotte Horvath
+   input Data/Horvath2.th
+	   equate  Horvath@Horvath  Horvath@Horvath2
+   # Ajout topo S2
+   input Data/Horvath-S2.th
+      equate 4@Horvath 0b@Horvath-S2
+
+## Pour le plan
+   input Data/Horvath.th2
+   #input Data/Horvath2.th2
+   #join SP-LutS3S4-1 SP-S3-2
+
+## Pour la coupe développée
+   #input Data/Horvath-coupe.th2
+   #input Data/Horvath2-coupe.th2
+   #join SC-LutS3S4-1 SC-S3-2
+
+## Appel des maps
+   input Horvath-maps.th
+
+endsurvey

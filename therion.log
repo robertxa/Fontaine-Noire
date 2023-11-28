@@ -1,0 +1,213 @@
+therion 6.1.7+dev (compiled on 2023-06-02)
+  - using Proj 9.3.0, compiled against 9.2.1
+therion: warning -- Proj version mismatch: using 9.3.0, compiled against 9.2.1
+initialization file: /usr/local/etc/therion.ini
+reading ... done
+checking optional fonts csr10 csti10 csbx10 csss10 csssi10 ... OK
+checking optional fonts cmcyr10 cmcti10 cmcbx10 cmcss10 cmcssi10 ... OK
+configuration file: Horvath.thconfig
+reading ... done
+reading source files ... done
+preprocessing database ... done
+output coordinate system: UTM31
+meridian convergence (deg): -2.0323
+geomag declinations (deg):
+  2023.1.1  2.5661
+  2024.1.1  2.7279
+scanning centreline tree ... done
+searching for centerline loops ... done
+calculating station coordinates ... done
+average loop error: 6.17%
+processing survey data ... 
+####################### cavern log file ########################
+
+therion: warning -- can't open cavern log file for input
+calculating basic statistics ... done
+processing extended elevation ... done
+processing references ... done
+selecting export objects ... 
+therion: warning -- Horvath.thconfig [329] -- object not found -- "MC-Horvath-coupe"
+done
+processing projection plan ... done
+average distortion: 0.00%
+writing Data/Horvath-map.xvi ... done
+processing projection extended ... done
+writing Data/Horvath-coupe.xvi ... done
+
+
+############### export maps & scraps selection #################
+S     -.-- @ ()
+########## end of export maps & scraps selection ###############
+writing Outputs/Horvath-coupe.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 1.999 (TeX Live 2015) (kpathsea version 6.2.1)  28 NOV 2023 10:35
+**data.mp
+(/usr/local/texlive/2015/texmf-dist/metapost/base/mpost.mp
+(/usr/local/texlive/2015/texmf-dist/metapost/base/plain.mp
+Preloading the plain mem file, version 1.005) ) (./data.mp
+{randomseed:=42}
+ [1] [2] [3] [4]
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
+[15] [1] [2] (./mptextmp.mp) [3] (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp
+) (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) [4] )
+ 
+Here is how much of MetaPost's memory you used:
+ 12134 strings using 389122 characters
+ 4068272 bytes of node memory
+ 1746 symbolic tokens
+ 9i,81n,16p,312b,5f stack positions out of 16i,96n,20p,312b,6f
+19 output files written: data-patt.1 .. data-patt.15
+
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2016.5.13)  28 NOV 2023 10:35
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pdftex/glyphtounicode.tex))
+(./th_fontdef.tex{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdf
+tex.map})
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 51 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 306 strings out of 494671
+ 4173 string characters out of 6148971
+ 166820 words of memory out of 5000000
+ 1935 multiletter control sequences out of 15000+600000
+ 21194 words of font info for 66 fonts, out of 8000000 for 9000
+ 1420 hyphenation exceptions out of 8191
+ 9i,5n,8p,402b,70s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10
+.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10
+.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.
+pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cs/csss10.pfb></usr/
+local/texlive/2015/texmf-dist/fonts/type1/public/cs/csssi10.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/cs/csti10.pfb>
+Output written on data.pdf (1 page, 82761 bytes).
+PDF statistics:
+ 58 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 67 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+
+
+############### export maps & scraps selection #################
+M  1171.46 MP-Horvath-plan@Horvath (Fontaine Noire - Grotte Horvath)
+S  1182.05 SP-Horvath-3@Horvath ()
+S  1170.35 SP-Horvath-4@Horvath ()
+S  1161.05 SP-Horvath-6@Horvath ()
+S  1166.32 SP-Horvath-5@Horvath ()
+S  1174.55 SP-Horvath-2@Horvath ()
+S  1174.46 SP-Horvath-1@Horvath ()
+########## end of export maps & scraps selection ###############
+writing Outputs/Horvath-plan.pdf ...
+####################### metapost log file ########################
+This is MetaPost, version 1.999 (TeX Live 2015) (kpathsea version 6.2.1)  28 NOV 2023 10:35
+**data.mp
+(/usr/local/texlive/2015/texmf-dist/metapost/base/mpost.mp
+(/usr/local/texlive/2015/texmf-dist/metapost/base/plain.mp
+Preloading the plain mem file, version 1.005) ) (./data.mp
+{randomseed:=42}
+ [1] [2] [3] [4]
+[5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
+[15]
+[Warning: scrap outline intersects itself in scrap SP-Horvath-1@Horvath] [1]
+[2] [3] [4] [5] [6] [7] [8]
+[Warning: scrap outline intersects itself in scrap SP-Horvath-5@Horvath] [9]
+[10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20]
+[Warning: scrap outline intersects itself in scrap SP-Horvath-3@Horvath] [21]
+[22] [23] (./mptextmp.mp) [24] (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp)
+(./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) [25] )
+ 
+Here is how much of MetaPost's memory you used:
+ 14770 strings using 342983 characters
+ 3982560 bytes of node memory
+ 1759 symbolic tokens
+ 11i,81n,16p,611b,5f stack positions out of 16i,96n,20p,760b,6f
+40 output files written: data-patt.1 .. data.25
+
+
+#################### end of metapost log file ####################
+converting scraps ... done
+making map ... done
+######################## pdftex log file #########################
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2016.5.13)  28 NOV 2023 10:35
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**data.tex
+(./data.tex (./th_enc.tex) (./th_texts.tex) (./th_resources.tex
+(/usr/local/texlive/2015/texmf-dist/tex/generic/pdftex/glyphtounicode.tex))
+(./th_fontdef.tex{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdf
+tex.map})
+(./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
+ 84 numeric registers used out of 32768
+ [1] ) 
+Here is how much of TeX's memory you used:
+ 341 strings out of 494671
+ 4581 string characters out of 6148971
+ 63950 words of memory out of 5000000
+ 1970 multiletter control sequences out of 15000+600000
+ 21194 words of font info for 66 fonts, out of 8000000 for 9000
+ 1420 hyphenation exceptions out of 8191
+ 9i,5n,8p,712b,66s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10
+.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.
+pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.
+pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.p
+fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cs/csss10.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/public/cs/csssi10.pfb>
+Output written on data.pdf (1 page, 160009 bytes).
+PDF statistics:
+ 134 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 295 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+
+##################### end of pdftex log file #####################
+done
+writing Outputs/Horvath.lox ......... done
+writing Outputs/Horvath.kml ... done
+writing Outputs/Horvath-filaire.kml ... done
+writing xtherion file ... done
+compilation time: 4 sec
+
+
+######################### loop errors ##########################
+REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
+  6.17%    1.5m   24.2m   6    0.4m   -0.8m    1.2m [56@Horvath.Horvath - 54 - 53 - 52 - 36 - 55 - 56]
+##################### end of loop errors #######################
+
+
+###################### scrap distortions #######################
+ PROJECTION: plan
+ AVERAGE  MAXIMAL  SCRAP
+   0.00%    0.18%  SP-Horvath-4@Horvath
+   0.00%    0.17%  SP-Horvath-5@Horvath
+   0.00%    0.10%  SP-Horvath-2@Horvath
+   0.00%    0.09%  SP-Horvath-3@Horvath
+   0.02%    0.06%  SP-Horvath-1@Horvath
+   0.00%    0.06%  SP-Horvath-6@Horvath
+################### end of scrap distortions ###################
+
+############# CRS transformations chosen by PROJ ###############
+  Area of Use (AoU): (5.856, 45.330) (5.857, 45.330)
+  [LONG-LAT → LAT-LONG] AoU: [no] transformation: [axis order change (2D) + Null geographic offset from WGS 84 to WGS 84 + axis order change (2D)] definition: [proj=noop ellps=GRS80] accuracy: [0.000 m]
+  [LONG-LAT → LAT-LONG] AoU: [yes] transformation: [axis order change (2D) + Null geographic offset from WGS 84 to WGS 84 + axis order change (2D)] definition: [proj=noop ellps=GRS80] accuracy: [0.000 m]
+  [LONG-LAT → UTM31] AoU: [yes] transformation: [axis order change (2D) + UTM zone 31N] definition: [proj=pipeline step proj=unitconvert xy_in=deg xy_out=rad step proj=utm zone=31 ellps=WGS84] accuracy: [0.000 m]
+  [LONG-LAT → EPSG:4326] AoU: [yes] transformation: [axis order change (2D) + Null geographic offset from WGS 84 to WGS 84 + axis order change (2D)] definition: [proj=noop ellps=GRS80] accuracy: [0.000 m]
+  [UTM31 → LONG-LAT] AoU: [yes] transformation: [Inverse of UTM zone 31N + axis order change (2D)] definition: [proj=pipeline step inv proj=utm zone=31 ellps=WGS84 step proj=unitconvert xy_in=rad xy_out=deg] accuracy: [0.000 m]
+  [UTM31 → EPSG:4326] AoU: [yes] transformation: [Inverse of UTM zone 31N + axis order change (2D)] definition: [proj=pipeline step inv proj=utm zone=31 ellps=WGS84 step proj=unitconvert xy_in=rad xy_out=deg] accuracy: [0.000 m]
+  [EPSG:4326 → UTM31] AoU: [yes] transformation: [axis order change (2D) + UTM zone 31N] definition: [proj=pipeline step proj=unitconvert xy_in=deg xy_out=rad step proj=utm zone=31 ellps=WGS84] accuracy: [0.000 m]
+########## end of CRS transformations chosen by PROJ ###########
