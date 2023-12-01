@@ -14,6 +14,8 @@ encoding  utf-8
 # "nomcavite.th2")
 source Horvath-tot.th
 
+source Data/HorvathDEM.th
+
 # Add Coordinates
 input legendes/entrances_coordinates.th
 

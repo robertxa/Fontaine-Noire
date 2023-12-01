@@ -10,14 +10,14 @@ reading ... done
 reading source files ... done
 preprocessing database ... done
 output coordinate system: UTM31
-meridian convergence (deg): -2.0323
+meridian convergence (deg): -2.0332
 geomag declinations (deg):
-  2023.1.1  2.5661
-  2024.1.1  2.7279
+  2023.1.1  2.5663
+  2024.1.1  2.7282
 scanning centreline tree ... done
 searching for centerline loops ... done
 calculating station coordinates ... done
-average loop error: 6.17%
+average loop error: 13.19%
 processing survey data ... 
 ####################### cavern log file ########################
 
@@ -26,7 +26,7 @@ calculating basic statistics ... done
 processing extended elevation ... done
 processing references ... done
 selecting export objects ... 
-therion: warning -- Horvath.thconfig [331] -- object not found -- "MC-Horvath-coupe"
+therion: warning -- Horvath.thconfig [333] -- object not found -- "MC-Horvath-coupe"
 done
 processing projection plan ... done
 average distortion: 0.00%
@@ -40,7 +40,7 @@ S     -.-- @ ()
 ########## end of export maps & scraps selection ###############
 writing Outputs/Horvath-coupe.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.999 (TeX Live 2015) (kpathsea version 6.2.1)  28 NOV 2023 11:16
+This is MetaPost, version 1.999 (TeX Live 2015) (kpathsea version 6.2.1)  1 DEC 2023 11:11
 **data.mp
 (/usr/local/texlive/2015/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2015/texmf-dist/metapost/base/plain.mp
@@ -52,8 +52,8 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
 ) (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) [4] )
  
 Here is how much of MetaPost's memory you used:
- 12134 strings using 389122 characters
- 4068272 bytes of node memory
+ 12288 strings using 389432 characters
+ 4011912 bytes of node memory
  1746 symbolic tokens
  9i,81n,16p,312b,5f stack positions out of 16i,96n,20p,312b,6f
 19 output files written: data-patt.1 .. data-patt.15
@@ -63,7 +63,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2016.5.13)  28 NOV 2023 11:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2016.5.13)  1 DEC 2023 11:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -78,7 +78,7 @@ tex.map})
 Here is how much of TeX's memory you used:
  306 strings out of 494671
  4173 string characters out of 6148971
- 166863 words of memory out of 5000000
+ 148671 words of memory out of 5000000
  1935 multiletter control sequences out of 15000+600000
  21194 words of font info for 66 fonts, out of 8000000 for 9000
  1420 hyphenation exceptions out of 8191
@@ -89,7 +89,7 @@ Here is how much of TeX's memory you used:
 pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cs/csss10.pfb></usr/
 local/texlive/2015/texmf-dist/fonts/type1/public/cs/csssi10.pfb></usr/local/tex
 live/2015/texmf-dist/fonts/type1/public/cs/csti10.pfb>
-Output written on data.pdf (1 page, 83019 bytes).
+Output written on data.pdf (1 page, 83292 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
@@ -112,7 +112,7 @@ S  1174.46 SP-Horvath-1@Horvath ()
 ########## end of export maps & scraps selection ###############
 writing Outputs/Horvath-plan.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.999 (TeX Live 2015) (kpathsea version 6.2.1)  28 NOV 2023 11:16
+This is MetaPost, version 1.999 (TeX Live 2015) (kpathsea version 6.2.1)  1 DEC 2023 11:11
 **data.mp
 (/usr/local/texlive/2015/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2015/texmf-dist/metapost/base/plain.mp
@@ -130,7 +130,7 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
 (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) [25] )
  
 Here is how much of MetaPost's memory you used:
- 14770 strings using 342983 characters
+ 14776 strings using 343359 characters
  3982560 bytes of node memory
  1759 symbolic tokens
  11i,81n,16p,611b,5f stack positions out of 16i,96n,20p,760b,6f
@@ -141,7 +141,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2016.5.13)  28 NOV 2023 11:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2016.5.13)  1 DEC 2023 11:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -156,7 +156,7 @@ tex.map})
 Here is how much of TeX's memory you used:
  341 strings out of 494671
  4581 string characters out of 6148971
- 63993 words of memory out of 5000000
+ 63999 words of memory out of 5000000
  1970 multiletter control sequences out of 15000+600000
  21194 words of font info for 66 fonts, out of 8000000 for 9000
  1420 hyphenation exceptions out of 8191
@@ -167,7 +167,7 @@ pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.
 pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.p
 fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cs/csss10.pfb></usr/l
 ocal/texlive/2015/texmf-dist/fonts/type1/public/cs/csssi10.pfb>
-Output written on data.pdf (1 page, 160154 bytes).
+Output written on data.pdf (1 page, 160238 bytes).
 PDF statistics:
  134 PDF objects out of 1000 (max. 8388607)
  73 compressed objects within 1 object stream
@@ -185,6 +185,7 @@ compilation time: 5 sec
 
 ######################### loop errors ##########################
 REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
+ 27.25%    2.5m    9.1m   3   -2.4m   -0.5m    0.3m [Horvath@Horvath2.Horvath - 4 - 3 - Horvath2]
   6.17%    1.5m   24.2m   6    0.4m   -0.8m    1.2m [56@Horvath.Horvath - 54 - 53 - 52 - 36 - 55 - 56]
 ##################### end of loop errors #######################
 
@@ -201,12 +202,14 @@ REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
 ################### end of scrap distortions ###################
 
 ############# CRS transformations chosen by PROJ ###############
-  Area of Use (AoU): (5.856, 45.330) (5.857, 45.330)
+  Area of Use (AoU): (5.850, 45.324) (5.876, 45.333)
   [LONG-LAT → LAT-LONG] AoU: [no] transformation: [axis order change (2D) + Null geographic offset from WGS 84 to WGS 84 + axis order change (2D)] definition: [proj=noop ellps=GRS80] accuracy: [0.000 m]
   [LONG-LAT → LAT-LONG] AoU: [yes] transformation: [axis order change (2D) + Null geographic offset from WGS 84 to WGS 84 + axis order change (2D)] definition: [proj=noop ellps=GRS80] accuracy: [0.000 m]
   [LONG-LAT → UTM31] AoU: [yes] transformation: [axis order change (2D) + UTM zone 31N] definition: [proj=pipeline step proj=unitconvert xy_in=deg xy_out=rad step proj=utm zone=31 ellps=WGS84] accuracy: [0.000 m]
   [LONG-LAT → EPSG:4326] AoU: [yes] transformation: [axis order change (2D) + Null geographic offset from WGS 84 to WGS 84 + axis order change (2D)] definition: [proj=noop ellps=GRS80] accuracy: [0.000 m]
   [UTM31 → LONG-LAT] AoU: [yes] transformation: [Inverse of UTM zone 31N + axis order change (2D)] definition: [proj=pipeline step inv proj=utm zone=31 ellps=WGS84 step proj=unitconvert xy_in=rad xy_out=deg] accuracy: [0.000 m]
   [UTM31 → EPSG:4326] AoU: [yes] transformation: [Inverse of UTM zone 31N + axis order change (2D)] definition: [proj=pipeline step inv proj=utm zone=31 ellps=WGS84 step proj=unitconvert xy_in=rad xy_out=deg] accuracy: [0.000 m]
+  [EPSG:2154 → LAT-LONG] AoU: [no] transformation: [Inverse of Lambert-93 + RGF93 v1 to WGS 84 (1) + axis order change (2D)] definition: [proj=pipeline step inv proj=lcc lat_0=46.5 lon_0=3 lat_1=49 lat_2=44 x_0=700000 y_0=6600000 ellps=GRS80 step proj=unitconvert xy_in=rad xy_out=deg] accuracy: [1.000 m]
+  [EPSG:2154 → UTM31] AoU: [yes] transformation: [Inverse of Lambert-93 + RGF93 v1 to WGS 84 (1) + UTM zone 31N] definition: [proj=pipeline step inv proj=lcc lat_0=46.5 lon_0=3 lat_1=49 lat_2=44 x_0=700000 y_0=6600000 ellps=GRS80 step proj=utm zone=31 ellps=WGS84] accuracy: [1.000 m]
   [EPSG:4326 → UTM31] AoU: [yes] transformation: [axis order change (2D) + UTM zone 31N] definition: [proj=pipeline step proj=unitconvert xy_in=deg xy_out=rad step proj=utm zone=31 ellps=WGS84] accuracy: [0.000 m]
 ########## end of CRS transformations chosen by PROJ ###########
