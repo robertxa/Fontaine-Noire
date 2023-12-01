@@ -191,7 +191,7 @@ layout my_layout-coupe
 	# employee, c est le cas apres avoir dessine la topo
 	# sur un cheminement exporte avec le layout "xviexport"
 	# (voir en bas)
-	base-scale 1 1150
+	base-scale 1 1000
 	#base-scale 1 500
   
 	# "scale" : specification de l echelle,
@@ -206,7 +206,7 @@ layout my_layout-coupe
 	scale 1 1000
  
 	# echelle graphique 50 m ampleur
-	scale-bar 200 m
+	scale-bar 100 m
    
 	# Pour faire une rotation
 	#rotate 2.25
@@ -260,8 +260,8 @@ layout my_layout-coupe
 	legend off
   
 	# Par defaut, la legende est de 14 cm de largeur
-	#legend-width 16.5 cm
-	legend-width 30 cm
+	legend-width 16.5 cm
+	#legend-width 30 cm
   
 	# Specification la position de la manchette : interieur
 	# occuppe par le titule, auteurs, etc. Nous pouvons indiquer
@@ -270,7 +270,7 @@ layout my_layout-coupe
 	# 100 100, c est en haut, a droite
 	# La manchette a des "points cardinaux" : n, s, ne, sw, etc.
 	# Il faut specifier un de ces points 
-	#map-header 0 30 nw
+	map-header 0 0 nw
 	#map-header 0 0 off
   
 	# arrière plan de la manchette
@@ -280,8 +280,8 @@ layout my_layout-coupe
   
 	# Options pour afficher le squelette topo,
 	# les points et le nom des stations topos
-	#symbol-hide line survey
-	debug station-names
+	symbol-hide line survey
+	#debug station-names
   
 	# Specifier le pas de la grille, ici 100x100x100 metres
 	# (Trois dimensions, oui, ça sert pour la coupe aussi) 

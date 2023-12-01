@@ -21,7 +21,7 @@ survey Horvath -title "Résurgence de Fontaine Noire - Grotte Horvath"
    #join SP-LutS3S4-1 SP-S3-2
 
 ## Pour la coupe développée
-   #input Data/Horvath-coupe.th2
+   input Data/Horvath-coupe.th2
    #input Data/Horvath2-coupe.th2
    #join SC-LutS3S4-1 SC-S3-2
 

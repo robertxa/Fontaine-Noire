@@ -18,23 +18,30 @@ map MP-Horvath-plan -title "Fontaine Noire - Grotte Horvath"
 	SP-Horvath-1
 endmap
 
-#map MC-Horvath-coupe -title "Fontaine Noire - Grotte Horvath"
-#	SC-Horvath-1
-#	break
-#	SC-Horvath-2
-#	break
-#	SC-Horvath-3
-#	break
-#	SC-S2S3-2
-#	break
-#	SC-S2S3-1
-#	break
-#	SC-S3-2
-	#break
-	#SC-S3S4-1
-	#break
-	#SC-S3S4-1
-#	break
-#	SC-LutS3S4-1
-#endmap
-   
+map MC-Horvath-1 -title "Fontaine Noire - Grotte Horvath"
+	SC-Horvath2-1
+	break
+	SC-FNoire-1
+	break
+	SC-Horvath-1
+	break
+	SC-Horvath-2
+	break
+	SC-Horvath-3
+	break
+	SC-Horvath-5
+	break
+	SC-Horvath-7
+endmap
+
+map MC-Horvath-2 -title "Fontaine Noire - Grotte Horvath"
+	SC-Horvath-4
+	break
+	SC-Horvath-6
+endmap
+
+map MC-Horvath-coupe -title "Fontaine Noire - Grotte Horvath"
+	MC-Horvath-1
+	break
+	MC-Horvath-2 [0 +30 m] below
+endmap
