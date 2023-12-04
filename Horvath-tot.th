@@ -14,6 +14,8 @@ survey Horvath -title "Résurgence de Fontaine Noire - Grotte Horvath"
    # Ajout topo S2
    input Data/Horvath-S2.th
       equate 4@Horvath 0b@Horvath-S2
+   input Data/Horvathb.th
+      equate 49@Horvath 20@Horvathb
 
 ## Pour le plan
    input Data/Horvath.th2

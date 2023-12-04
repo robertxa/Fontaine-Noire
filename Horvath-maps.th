@@ -5,7 +5,17 @@ encoding  utf-8
 #	<http://creativecommons.org/licenses/by-nc-sa/4.0/> 
 
 map MP-Horvath-plan -title "Fontaine Noire - Grotte Horvath"
+	SP-Horvath-8
+	break
+	SP-Horvath-7
+	break
 	SP-Horvath-3
+	break
+	SP-Horvath-10
+	break
+	SP-Horvath-9
+	break
+	SP-Horvath-11
 	break
 	SP-Horvath-4
 	break

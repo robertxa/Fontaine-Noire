@@ -779,7 +779,9 @@ survey Horvath -title "Résurgence de Fontaine Noire - Grotte Horvath"
     # extend auto
     #50 . 16.98 165.2 -4.8
     extend right
+    flags duplicate
     49 51 24.17 165.4 -4.8  # perte, continue
+    flags not duplicate
     extend left
     36 52 2.64 305.4 22.1
     # extend auto
