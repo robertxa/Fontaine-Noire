@@ -30,7 +30,7 @@ processing projection plan ... done
 average distortion: 0.00%
 writing Data/Horvath-map.xvi ... done
 processing projection extended ... done
-average distortion: 0.15%
+average distortion: 0.12%
 writing Data/Horvath-coupe.xvi ... done
 
 
@@ -44,13 +44,15 @@ S     0.00 SC-Horvath-2@Horvath ()
 S     0.00 SC-Horvath-3@Horvath ()
 S     0.00 SC-Horvath-5@Horvath ()
 S     0.00 SC-Horvath-7@Horvath ()
+S     0.00 SC-Horvath-9@Horvath ()
 M     0.00 MC-Horvath-2@Horvath (Fontaine Noire - Grotte Horvath)
 S     0.00 SC-Horvath-4@Horvath ()
 S     0.00 SC-Horvath-6@Horvath ()
+S     0.00 SC-Horvath-8@Horvath ()
 ########## end of export maps & scraps selection ###############
 writing Outputs/Horvath-coupe.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.999 (TeX Live 2015) (kpathsea version 6.2.1)  4 DEC 2023 08:39
+This is MetaPost, version 1.999 (TeX Live 2015) (kpathsea version 6.2.1)  4 DEC 2023 09:26
 **data.mp
 (/usr/local/texlive/2015/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2015/texmf-dist/metapost/base/plain.mp
@@ -58,29 +60,34 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
 {randomseed:=42}
  [1] [2] [3] [4]
 [5] [6] [7] [8] [9] [10] [11] [12] [13] [14]
-[15] [1] [2] [3] [4]
-[Warning: scrap outline intersects itself in scrap SC-Horvath-5@Horvath] [5]
-[6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19]
-[Warning: scrap outline intersects itself in scrap SC-FNoire-1@Horvath] [20]
-[21] [22]
-[Warning: scrap outline intersects itself in scrap SC-Horvath2-1@Horvath] [23]
-[24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] (./mptextmp.mp)
-[36] (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp)
-(./mptextmp.mp) (./mptextmp.mp) [37] )
+[15] [1] [2] [3] [4] [5]
+[Warning: scrap outline intersects itself in scrap SC-Horvath-7@Horvath] [6]
+[7] [8]
+[Warning: scrap outline intersects itself in scrap SC-Horvath-5@Horvath] [9]
+[10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23]
+[Warning: scrap outline intersects itself in scrap SC-FNoire-1@Horvath] [24]
+[25] [26]
+[Warning: scrap outline intersects itself in scrap SC-Horvath2-1@Horvath] [27]
+[28] [29] [30]
+[Warning: scrap outline intersects itself in scrap SC-Horvath-8@Horvath] [31]
+[32] [33] [34] [35] [36] [37] [38] [39] [40] [41]
+[Warning: scrap outline intersects itself in scrap SC-Horvath-8@Horvath] [42]
+[43] [44] (./mptextmp.mp) [45] (./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp)
+(./mptextmp.mp) (./mptextmp.mp) (./mptextmp.mp) [46] )
  
 Here is how much of MetaPost's memory you used:
- 11957 strings using 278218 characters
- 3990296 bytes of node memory
- 1759 symbolic tokens
- 9i,81n,16p,468b,5f stack positions out of 16i,96n,20p,487b,6f
-52 output files written: data-patt.1 .. data.37
+ 14248 strings using 329786 characters
+ 4049968 bytes of node memory
+ 1762 symbolic tokens
+ 11i,81n,16p,468b,5f stack positions out of 16i,96n,17p,487b,6f
+61 output files written: data-patt.1 .. data.46
 
 
 #################### end of metapost log file ####################
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2016.5.13)  4 DEC 2023 08:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2016.5.13)  4 DEC 2023 09:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -90,13 +97,13 @@ entering extended mode
 (./th_fontdef.tex{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdf
 tex.map})
 (./th_formdef.tex) (./th_pagedef.tex) (./th_pages.tex)
- 133 numeric registers used out of 32768
+ 154 numeric registers used out of 32768
  [1] ) 
 Here is how much of TeX's memory you used:
- 390 strings out of 494671
- 5216 string characters out of 6148971
- 48035 words of memory out of 5000000
- 2019 multiletter control sequences out of 15000+600000
+ 411 strings out of 494671
+ 5480 string characters out of 6148971
+ 48835 words of memory out of 5000000
+ 2040 multiletter control sequences out of 15000+600000
  21194 words of font info for 66 fonts, out of 8000000 for 9000
  1420 hyphenation exceptions out of 8191
  9i,5n,8p,712b,70s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -107,12 +114,12 @@ pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.p
 fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/cs/csss10.pfb></usr/l
 ocal/texlive/2015/texmf-dist/fonts/type1/public/cs/csssi10.pfb></usr/local/texl
 ive/2015/texmf-dist/fonts/type1/public/cs/csti10.pfb>
-Output written on data.pdf (1 page, 171232 bytes).
+Output written on data.pdf (1 page, 201597 bytes).
 PDF statistics:
- 246 PDF objects out of 1000 (max. 8388607)
- 129 compressed objects within 2 object streams
+ 292 PDF objects out of 1000 (max. 8388607)
+ 152 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 613 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 751 words of extra memory for PDF output out of 10000 (max. 10000000)
 
 
 ##################### end of pdftex log file #####################
@@ -135,7 +142,7 @@ S  1174.46 SP-Horvath-1@Horvath ()
 ########## end of export maps & scraps selection ###############
 writing Outputs/Horvath-plan.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.999 (TeX Live 2015) (kpathsea version 6.2.1)  4 DEC 2023 08:40
+This is MetaPost, version 1.999 (TeX Live 2015) (kpathsea version 6.2.1)  4 DEC 2023 09:26
 **data.mp
 (/usr/local/texlive/2015/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2015/texmf-dist/metapost/base/plain.mp
@@ -164,7 +171,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2016.5.13)  4 DEC 2023 08:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2016.5.13)  4 DEC 2023 09:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -204,7 +211,7 @@ writing Outputs/Horvath.lox .............. done
 writing Outputs/Horvath.kml ... done
 writing Outputs/Horvath-filaire.kml ... done
 writing xtherion file ... done
-compilation time: 6 sec
+compilation time: 4 sec
 
 
 ######################### loop errors ##########################
@@ -236,13 +243,15 @@ REL-ERR ABS-ERR TOTAL-L STS X-ERROR Y-ERROR Z-ERROR STATIONS
  AVERAGE  MAXIMAL  SCRAP
    1.69%   48.28%  SC-Horvath-4@Horvath
    0.01%    0.13%  SC-Horvath-2@Horvath
+   0.00%    0.11%  SC-Horvath-9@Horvath
+   0.00%    0.09%  SC-Horvath-3@Horvath
    0.00%    0.08%  SC-Horvath-6@Horvath
    0.00%    0.08%  SC-FNoire-1@Horvath
    0.01%    0.07%  SC-Horvath-5@Horvath
    0.00%    0.07%  SC-Horvath-7@Horvath
    0.01%    0.05%  SC-Horvath2-1@Horvath
-   0.00%    0.05%  SC-Horvath-3@Horvath
    0.00%    0.04%  SC-Horvath-1@Horvath
+   0.01%    0.04%  SC-Horvath-8@Horvath
 ################### end of scrap distortions ###################
 
 ############# CRS transformations chosen by PROJ ###############

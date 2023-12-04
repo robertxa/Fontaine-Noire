@@ -1033,423 +1033,423 @@ set XVIstations {
   {     1105.15      -167.46 18c@Horvath-S2.Horvath}
   {     1105.15      -167.46 18c@Horvath-S2.Horvath}
   {     1183.89      -167.46 18d@Horvath-S2.Horvath}
-  {     -168.09       209.89 0@Horvathb.Horvath}
-  {     -168.09       209.89 0@Horvathb.Horvath}
-  {     -168.09       209.89 0@Horvathb.Horvath}
-  {     -168.09       209.89 0@Horvathb.Horvath}
-  {     -168.09       209.89 0@Horvathb.Horvath}
-  {     -168.09       209.89 0@Horvathb.Horvath}
-  {     -168.09       209.89 0@Horvathb.Horvath}
-  {     -168.09       209.89 0@Horvathb.Horvath}
-  {     -168.09       209.89 0@Horvathb.Horvath}
-  {     -168.09       209.89 0@Horvathb.Horvath}
-  {     -168.09       209.89 0@Horvathb.Horvath}
-  {     -168.09       209.89 0@Horvathb.Horvath}
-  {     -168.09       209.89 0@Horvathb.Horvath}
-  {     -168.09       209.89 0@Horvathb.Horvath}
-  {     -168.09       209.89 0@Horvathb.Horvath}
-  {     -168.09       209.89 0@Horvathb.Horvath}
-  {     -155.39       246.99 1@Horvathb.Horvath}
-  {     -168.09       209.89 0@Horvathb.Horvath}
-  {     -136.95       181.75 2@Horvathb.Horvath}
-  {     -155.39       246.99 1@Horvathb.Horvath}
-  {     -136.95       181.75 2@Horvathb.Horvath}
-  {     -136.95       181.75 2@Horvathb.Horvath}
-  {     -136.95       181.75 2@Horvathb.Horvath}
-  {     -136.95       181.75 2@Horvathb.Horvath}
-  {     -136.95       181.75 2@Horvathb.Horvath}
-  {     -136.95       181.75 2@Horvathb.Horvath}
-  {     -136.95       181.75 2@Horvathb.Horvath}
-  {     -136.95       181.75 2@Horvathb.Horvath}
-  {     -136.95       181.75 2@Horvathb.Horvath}
-  {     -136.95       181.75 2@Horvathb.Horvath}
-  {     -136.95       181.75 2@Horvathb.Horvath}
-  {     -136.95       181.75 2@Horvathb.Horvath}
-  {     -136.95       181.75 2@Horvathb.Horvath}
-  {     -136.95       181.75 2@Horvathb.Horvath}
-  {     -136.95       181.75 2@Horvathb.Horvath}
-  {     -136.95       181.75 2@Horvathb.Horvath}
-  {     -136.95       181.75 2@Horvathb.Horvath}
-  {     -136.95       181.75 2@Horvathb.Horvath}
-  {     -136.95       181.75 2@Horvathb.Horvath}
-  {     -114.87       172.70 3@Horvathb.Horvath}
-  {     -114.87       172.70 3@Horvathb.Horvath}
-  {     -114.87       172.70 3@Horvathb.Horvath}
-  {     -114.87       172.70 3@Horvathb.Horvath}
-  {     -114.87       172.70 3@Horvathb.Horvath}
-  {     -114.87       172.70 3@Horvathb.Horvath}
-  {     -114.87       172.70 3@Horvathb.Horvath}
-  {     -114.87       172.70 3@Horvathb.Horvath}
-  {     -114.87       172.70 3@Horvathb.Horvath}
-  {     -114.87       172.70 3@Horvathb.Horvath}
-  {     -114.87       172.70 3@Horvathb.Horvath}
-  {     -114.87       172.70 3@Horvathb.Horvath}
-  {     -114.87       172.70 3@Horvathb.Horvath}
-  {     -135.49       168.99 4@Horvathb.Horvath}
-  {     -135.49       168.99 4@Horvathb.Horvath}
-  {     -135.49       168.99 4@Horvathb.Horvath}
-  {     -135.49       168.99 4@Horvathb.Horvath}
-  {     -135.49       168.99 4@Horvathb.Horvath}
-  {     -135.49       168.99 4@Horvathb.Horvath}
-  {     -135.49       168.99 4@Horvathb.Horvath}
-  {     -135.49       168.99 4@Horvathb.Horvath}
-  {     -135.49       168.99 4@Horvathb.Horvath}
-  {     -135.49       168.99 4@Horvathb.Horvath}
-  {     -135.49       168.99 4@Horvathb.Horvath}
-  {     -135.49       168.99 4@Horvathb.Horvath}
-  {     -135.49       168.99 4@Horvathb.Horvath}
-  {     -151.95       179.20 5@Horvathb.Horvath}
-  {     -151.95       179.20 5@Horvathb.Horvath}
-  {     -151.95       179.20 5@Horvathb.Horvath}
-  {     -151.95       179.20 5@Horvathb.Horvath}
-  {     -151.95       179.20 5@Horvathb.Horvath}
-  {     -151.95       179.20 5@Horvathb.Horvath}
-  {     -151.95       179.20 5@Horvathb.Horvath}
-  {     -151.95       179.20 5@Horvathb.Horvath}
-  {     -151.95       179.20 5@Horvathb.Horvath}
-  {     -151.95       179.20 5@Horvathb.Horvath}
-  {     -151.95       179.20 5@Horvathb.Horvath}
-  {     -151.95       179.20 5@Horvathb.Horvath}
-  {     -151.95       179.20 5@Horvathb.Horvath}
-  {     -151.95       179.20 5@Horvathb.Horvath}
-  {     -151.95       179.20 5@Horvathb.Horvath}
-  {     -151.95       179.20 5@Horvathb.Horvath}
-  {     -151.95       179.20 5@Horvathb.Horvath}
-  {     -151.95       181.84 6@Horvathb.Horvath}
-  {     -151.95       181.84 6@Horvathb.Horvath}
-  {     -151.95       181.84 6@Horvathb.Horvath}
-  {     -151.95       181.84 6@Horvathb.Horvath}
-  {     -151.95       181.84 6@Horvathb.Horvath}
-  {     -151.95       181.84 6@Horvathb.Horvath}
-  {     -151.95       181.84 6@Horvathb.Horvath}
-  {     -151.95       181.84 6@Horvathb.Horvath}
-  {     -151.95       181.84 6@Horvathb.Horvath}
-  {     -151.95       181.84 6@Horvathb.Horvath}
-  {     -130.03       187.63 7@Horvathb.Horvath}
-  {     -151.95       179.20 5@Horvathb.Horvath}
-  {     -144.20       180.03 8@Horvathb.Horvath}
-  {     -130.03       187.63 7@Horvathb.Horvath}
-  {     -144.20       180.03 8@Horvathb.Horvath}
-  {     -144.20       180.03 8@Horvathb.Horvath}
-  {     -144.20       180.03 8@Horvathb.Horvath}
-  {     -144.20       180.03 8@Horvathb.Horvath}
-  {     -144.20       180.03 8@Horvathb.Horvath}
-  {     -144.20       180.03 8@Horvathb.Horvath}
-  {     -144.20       180.03 8@Horvathb.Horvath}
-  {     -144.20       180.03 8@Horvathb.Horvath}
-  {     -144.20       180.03 8@Horvathb.Horvath}
-  {     -153.26       166.29 9@Horvathb.Horvath}
-  {     -153.26       166.29 9@Horvathb.Horvath}
-  {     -153.26       166.29 9@Horvathb.Horvath}
-  {     -153.26       166.29 9@Horvathb.Horvath}
-  {     -153.26       166.29 9@Horvathb.Horvath}
-  {     -153.26       166.29 9@Horvathb.Horvath}
-  {     -153.26       166.29 9@Horvathb.Horvath}
-  {     -153.26       166.29 9@Horvathb.Horvath}
-  {     -153.26       166.29 9@Horvathb.Horvath}
-  {     -153.26       166.29 9@Horvathb.Horvath}
-  {     -153.26       166.29 9@Horvathb.Horvath}
-  {     -153.26       166.29 9@Horvathb.Horvath}
-  {     -153.26       166.29 9@Horvathb.Horvath}
-  {     -153.26       166.29 9@Horvathb.Horvath}
-  {     -153.26       166.29 9@Horvathb.Horvath}
-  {     -153.26       166.29 9@Horvathb.Horvath}
-  {     -153.26       166.29 9@Horvathb.Horvath}
-  {     -153.26       166.29 9@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {     -121.61       116.42 10@Horvathb.Horvath}
-  {      -96.58        92.59 11@Horvathb.Horvath}
-  {      -96.58        92.59 11@Horvathb.Horvath}
-  {      -96.58        92.59 11@Horvathb.Horvath}
-  {      -96.58        92.59 11@Horvathb.Horvath}
-  {      -96.58        92.59 11@Horvathb.Horvath}
-  {      -96.58        92.59 11@Horvathb.Horvath}
-  {      -96.58        92.59 11@Horvathb.Horvath}
-  {      -96.58        92.59 11@Horvathb.Horvath}
-  {      -96.58        92.59 11@Horvathb.Horvath}
-  {      -96.58        92.59 11@Horvathb.Horvath}
-  {      -96.58        92.59 11@Horvathb.Horvath}
-  {      -96.58        92.59 11@Horvathb.Horvath}
-  {      -96.58        92.59 11@Horvathb.Horvath}
-  {      -96.58        92.59 11@Horvathb.Horvath}
-  {      -96.58        92.59 11@Horvathb.Horvath}
-  {      -96.58        92.59 11@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -205.07        94.67 12@Horvathb.Horvath}
-  {     -265.50        92.56 13@Horvathb.Horvath}
-  {     -265.50        92.56 13@Horvathb.Horvath}
-  {     -265.50        92.56 13@Horvathb.Horvath}
-  {     -265.50        92.56 13@Horvathb.Horvath}
-  {     -265.50        92.56 13@Horvathb.Horvath}
-  {     -265.50        92.56 13@Horvathb.Horvath}
-  {     -265.50        92.56 13@Horvathb.Horvath}
-  {     -265.50        92.56 13@Horvathb.Horvath}
-  {     -265.50        92.56 13@Horvathb.Horvath}
-  {     -265.50        92.56 13@Horvathb.Horvath}
-  {     -265.50        92.56 13@Horvathb.Horvath}
-  {     -265.50        92.56 13@Horvathb.Horvath}
-  {     -265.50        92.56 13@Horvathb.Horvath}
-  {     -265.50        92.56 13@Horvathb.Horvath}
-  {     -265.50        92.56 13@Horvathb.Horvath}
-  {     -265.50        92.56 13@Horvathb.Horvath}
-  {     -265.50        92.56 13@Horvathb.Horvath}
-  {     -265.50        92.56 13@Horvathb.Horvath}
-  {     -265.50        92.56 13@Horvathb.Horvath}
-  {     -265.50        92.56 13@Horvathb.Horvath}
-  {     -269.80        82.49 14@Horvathb.Horvath}
-  {     -269.80        82.49 14@Horvathb.Horvath}
-  {     -269.80        82.49 14@Horvathb.Horvath}
-  {     -269.80        82.49 14@Horvathb.Horvath}
-  {     -269.80        82.49 14@Horvathb.Horvath}
-  {     -269.80        82.49 14@Horvathb.Horvath}
-  {     -269.80        82.49 14@Horvathb.Horvath}
-  {     -269.80        82.49 14@Horvathb.Horvath}
-  {     -269.80        82.49 14@Horvathb.Horvath}
-  {     -269.80        82.49 14@Horvathb.Horvath}
-  {     -269.80        82.49 14@Horvathb.Horvath}
-  {     -269.80        82.49 14@Horvathb.Horvath}
-  {     -269.80        82.49 14@Horvathb.Horvath}
-  {     -269.80        82.49 14@Horvathb.Horvath}
-  {     -269.80        82.49 14@Horvathb.Horvath}
-  {     -269.80        82.49 14@Horvathb.Horvath}
-  {     -269.80        82.49 14@Horvathb.Horvath}
-  {     -269.80        82.49 14@Horvathb.Horvath}
-  {     -269.80        72.82 15@Horvathb.Horvath}
-  {     -269.80        72.82 15@Horvathb.Horvath}
-  {     -269.80        72.82 15@Horvathb.Horvath}
-  {     -269.80        72.82 15@Horvathb.Horvath}
-  {     -269.80        72.82 15@Horvathb.Horvath}
-  {     -269.80        72.82 15@Horvathb.Horvath}
-  {     -269.80        72.82 15@Horvathb.Horvath}
-  {     -269.80        72.82 15@Horvathb.Horvath}
-  {     -269.80        72.82 15@Horvathb.Horvath}
-  {     -269.80        72.82 15@Horvathb.Horvath}
-  {     -269.80        72.82 15@Horvathb.Horvath}
-  {     -269.80        72.82 15@Horvathb.Horvath}
-  {     -269.80        72.82 15@Horvathb.Horvath}
-  {     -269.80        72.82 15@Horvathb.Horvath}
-  {     -269.80        72.82 15@Horvathb.Horvath}
-  {     -269.80        72.82 15@Horvathb.Horvath}
-  {     -269.80        72.82 15@Horvathb.Horvath}
-  {     -269.80        72.82 15@Horvathb.Horvath}
-  {     -269.80        72.82 15@Horvathb.Horvath}
-  {     -269.80        72.82 15@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -224.56        79.66 16@Horvathb.Horvath}
-  {     -236.05        72.48 17@Horvathb.Horvath}
-  {     -236.05        72.48 17@Horvathb.Horvath}
-  {     -236.05        72.48 17@Horvathb.Horvath}
-  {     -236.05        72.48 17@Horvathb.Horvath}
-  {     -236.05        72.48 17@Horvathb.Horvath}
-  {     -236.05        72.48 17@Horvathb.Horvath}
-  {     -236.05        72.48 17@Horvathb.Horvath}
-  {     -236.05        72.48 17@Horvathb.Horvath}
-  {     -236.05        72.48 17@Horvathb.Horvath}
-  {     -236.05        72.48 17@Horvathb.Horvath}
-  {     -236.05        72.48 17@Horvathb.Horvath}
-  {     -236.05        72.48 17@Horvathb.Horvath}
-  {     -236.05        72.48 17@Horvathb.Horvath}
-  {     -236.05        72.48 17@Horvathb.Horvath}
-  {     -236.05        72.48 17@Horvathb.Horvath}
-  {     -236.05        72.48 17@Horvathb.Horvath}
-  {     -236.05        72.48 17@Horvathb.Horvath}
-  {     -277.22       122.42 18@Horvathb.Horvath}
-  {     -236.05        72.48 17@Horvathb.Horvath}
-  {     -276.40        16.54 19@Horvathb.Horvath}
-  {     -276.40        16.54 19@Horvathb.Horvath}
-  {     -276.40        16.54 19@Horvathb.Horvath}
-  {     -276.40        16.54 19@Horvathb.Horvath}
-  {     -276.40        16.54 19@Horvathb.Horvath}
-  {     -276.40        16.54 19@Horvathb.Horvath}
-  {     -276.40        16.54 19@Horvathb.Horvath}
-  {     -276.40        16.54 19@Horvathb.Horvath}
-  {     -276.40        16.54 19@Horvathb.Horvath}
-  {     -276.40        16.54 19@Horvathb.Horvath}
-  {     -276.40        16.54 19@Horvathb.Horvath}
-  {     -276.40        16.54 19@Horvathb.Horvath}
-  {     -276.40        16.54 19@Horvathb.Horvath}
-  {     -276.40        16.54 19@Horvathb.Horvath}
-  {     -276.40        16.54 19@Horvathb.Horvath}
-  {     -276.40        16.54 19@Horvathb.Horvath}
-  {     -276.40        16.54 19@Horvathb.Horvath}
-  {     -276.40        16.54 19@Horvathb.Horvath}
+  {      110.50       209.89 0@Horvathb.Horvath}
+  {      110.50       209.89 0@Horvathb.Horvath}
+  {      110.50       209.89 0@Horvathb.Horvath}
+  {      110.50       209.89 0@Horvathb.Horvath}
+  {      110.50       209.89 0@Horvathb.Horvath}
+  {      110.50       209.89 0@Horvathb.Horvath}
+  {      110.50       209.89 0@Horvathb.Horvath}
+  {      110.50       209.89 0@Horvathb.Horvath}
+  {      110.50       209.89 0@Horvathb.Horvath}
+  {      110.50       209.89 0@Horvathb.Horvath}
+  {      110.50       209.89 0@Horvathb.Horvath}
+  {      110.50       209.89 0@Horvathb.Horvath}
+  {      110.50       209.89 0@Horvathb.Horvath}
+  {      110.50       209.89 0@Horvathb.Horvath}
+  {      110.50       209.89 0@Horvathb.Horvath}
+  {      110.50       209.89 0@Horvathb.Horvath}
+  {      123.21       246.99 1@Horvathb.Horvath}
+  {      110.50       209.89 0@Horvathb.Horvath}
+  {       79.36       181.75 2@Horvathb.Horvath}
+  {      123.21       246.99 1@Horvathb.Horvath}
+  {       79.36       181.75 2@Horvathb.Horvath}
+  {       79.36       181.75 2@Horvathb.Horvath}
+  {       79.36       181.75 2@Horvathb.Horvath}
+  {       79.36       181.75 2@Horvathb.Horvath}
+  {       79.36       181.75 2@Horvathb.Horvath}
+  {       79.36       181.75 2@Horvathb.Horvath}
+  {       79.36       181.75 2@Horvathb.Horvath}
+  {       79.36       181.75 2@Horvathb.Horvath}
+  {       79.36       181.75 2@Horvathb.Horvath}
+  {       79.36       181.75 2@Horvathb.Horvath}
+  {       79.36       181.75 2@Horvathb.Horvath}
+  {       79.36       181.75 2@Horvathb.Horvath}
+  {       79.36       181.75 2@Horvathb.Horvath}
+  {       79.36       181.75 2@Horvathb.Horvath}
+  {       79.36       181.75 2@Horvathb.Horvath}
+  {       79.36       181.75 2@Horvathb.Horvath}
+  {       79.36       181.75 2@Horvathb.Horvath}
+  {       79.36       181.75 2@Horvathb.Horvath}
+  {       79.36       181.75 2@Horvathb.Horvath}
+  {      101.44       172.70 3@Horvathb.Horvath}
+  {      101.44       172.70 3@Horvathb.Horvath}
+  {      101.44       172.70 3@Horvathb.Horvath}
+  {      101.44       172.70 3@Horvathb.Horvath}
+  {      101.44       172.70 3@Horvathb.Horvath}
+  {      101.44       172.70 3@Horvathb.Horvath}
+  {      101.44       172.70 3@Horvathb.Horvath}
+  {      101.44       172.70 3@Horvathb.Horvath}
+  {      101.44       172.70 3@Horvathb.Horvath}
+  {      101.44       172.70 3@Horvathb.Horvath}
+  {      101.44       172.70 3@Horvathb.Horvath}
+  {      101.44       172.70 3@Horvathb.Horvath}
+  {      101.44       172.70 3@Horvathb.Horvath}
+  {      122.05       168.99 4@Horvathb.Horvath}
+  {      122.05       168.99 4@Horvathb.Horvath}
+  {      122.05       168.99 4@Horvathb.Horvath}
+  {      122.05       168.99 4@Horvathb.Horvath}
+  {      122.05       168.99 4@Horvathb.Horvath}
+  {      122.05       168.99 4@Horvathb.Horvath}
+  {      122.05       168.99 4@Horvathb.Horvath}
+  {      122.05       168.99 4@Horvathb.Horvath}
+  {      122.05       168.99 4@Horvathb.Horvath}
+  {      122.05       168.99 4@Horvathb.Horvath}
+  {      122.05       168.99 4@Horvathb.Horvath}
+  {      122.05       168.99 4@Horvathb.Horvath}
+  {      122.05       168.99 4@Horvathb.Horvath}
+  {      138.51       179.20 5@Horvathb.Horvath}
+  {      138.51       179.20 5@Horvathb.Horvath}
+  {      138.51       179.20 5@Horvathb.Horvath}
+  {      138.51       179.20 5@Horvathb.Horvath}
+  {      138.51       179.20 5@Horvathb.Horvath}
+  {      138.51       179.20 5@Horvathb.Horvath}
+  {      138.51       179.20 5@Horvathb.Horvath}
+  {      138.51       179.20 5@Horvathb.Horvath}
+  {      138.51       179.20 5@Horvathb.Horvath}
+  {      138.51       179.20 5@Horvathb.Horvath}
+  {      138.51       179.20 5@Horvathb.Horvath}
+  {      138.51       179.20 5@Horvathb.Horvath}
+  {      138.51       179.20 5@Horvathb.Horvath}
+  {      138.51       179.20 5@Horvathb.Horvath}
+  {      138.51       179.20 5@Horvathb.Horvath}
+  {      138.51       179.20 5@Horvathb.Horvath}
+  {      138.51       179.20 5@Horvathb.Horvath}
+  {      160.64       181.84 6@Horvathb.Horvath}
+  {      160.64       181.84 6@Horvathb.Horvath}
+  {      160.64       181.84 6@Horvathb.Horvath}
+  {      160.64       181.84 6@Horvathb.Horvath}
+  {      160.64       181.84 6@Horvathb.Horvath}
+  {      160.64       181.84 6@Horvathb.Horvath}
+  {      160.64       181.84 6@Horvathb.Horvath}
+  {      160.64       181.84 6@Horvathb.Horvath}
+  {      160.64       181.84 6@Horvathb.Horvath}
+  {      160.64       181.84 6@Horvathb.Horvath}
+  {      182.57       187.63 7@Horvathb.Horvath}
+  {      138.51       179.20 5@Horvathb.Horvath}
+  {      130.76       180.03 8@Horvathb.Horvath}
+  {      182.57       187.63 7@Horvathb.Horvath}
+  {      130.76       180.03 8@Horvathb.Horvath}
+  {      130.76       180.03 8@Horvathb.Horvath}
+  {      130.76       180.03 8@Horvathb.Horvath}
+  {      130.76       180.03 8@Horvathb.Horvath}
+  {      130.76       180.03 8@Horvathb.Horvath}
+  {      130.76       180.03 8@Horvathb.Horvath}
+  {      130.76       180.03 8@Horvathb.Horvath}
+  {      130.76       180.03 8@Horvathb.Horvath}
+  {      130.76       180.03 8@Horvathb.Horvath}
+  {      121.70       166.29 9@Horvathb.Horvath}
+  {      121.70       166.29 9@Horvathb.Horvath}
+  {      121.70       166.29 9@Horvathb.Horvath}
+  {      121.70       166.29 9@Horvathb.Horvath}
+  {      121.70       166.29 9@Horvathb.Horvath}
+  {      121.70       166.29 9@Horvathb.Horvath}
+  {      121.70       166.29 9@Horvathb.Horvath}
+  {      121.70       166.29 9@Horvathb.Horvath}
+  {      121.70       166.29 9@Horvathb.Horvath}
+  {      121.70       166.29 9@Horvathb.Horvath}
+  {      121.70       166.29 9@Horvathb.Horvath}
+  {      121.70       166.29 9@Horvathb.Horvath}
+  {      121.70       166.29 9@Horvathb.Horvath}
+  {      121.70       166.29 9@Horvathb.Horvath}
+  {      121.70       166.29 9@Horvathb.Horvath}
+  {      121.70       166.29 9@Horvathb.Horvath}
+  {      121.70       166.29 9@Horvathb.Horvath}
+  {      121.70       166.29 9@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       90.06       116.42 10@Horvathb.Horvath}
+  {       65.03        92.59 11@Horvathb.Horvath}
+  {       65.03        92.59 11@Horvathb.Horvath}
+  {       65.03        92.59 11@Horvathb.Horvath}
+  {       65.03        92.59 11@Horvathb.Horvath}
+  {       65.03        92.59 11@Horvathb.Horvath}
+  {       65.03        92.59 11@Horvathb.Horvath}
+  {       65.03        92.59 11@Horvathb.Horvath}
+  {       65.03        92.59 11@Horvathb.Horvath}
+  {       65.03        92.59 11@Horvathb.Horvath}
+  {       65.03        92.59 11@Horvathb.Horvath}
+  {       65.03        92.59 11@Horvathb.Horvath}
+  {       65.03        92.59 11@Horvathb.Horvath}
+  {       65.03        92.59 11@Horvathb.Horvath}
+  {       65.03        92.59 11@Horvathb.Horvath}
+  {       65.03        92.59 11@Horvathb.Horvath}
+  {       65.03        92.59 11@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {      -43.46        94.67 12@Horvathb.Horvath}
+  {     -103.89        92.56 13@Horvathb.Horvath}
+  {     -103.89        92.56 13@Horvathb.Horvath}
+  {     -103.89        92.56 13@Horvathb.Horvath}
+  {     -103.89        92.56 13@Horvathb.Horvath}
+  {     -103.89        92.56 13@Horvathb.Horvath}
+  {     -103.89        92.56 13@Horvathb.Horvath}
+  {     -103.89        92.56 13@Horvathb.Horvath}
+  {     -103.89        92.56 13@Horvathb.Horvath}
+  {     -103.89        92.56 13@Horvathb.Horvath}
+  {     -103.89        92.56 13@Horvathb.Horvath}
+  {     -103.89        92.56 13@Horvathb.Horvath}
+  {     -103.89        92.56 13@Horvathb.Horvath}
+  {     -103.89        92.56 13@Horvathb.Horvath}
+  {     -103.89        92.56 13@Horvathb.Horvath}
+  {     -103.89        92.56 13@Horvathb.Horvath}
+  {     -103.89        92.56 13@Horvathb.Horvath}
+  {     -103.89        92.56 13@Horvathb.Horvath}
+  {     -103.89        92.56 13@Horvathb.Horvath}
+  {     -103.89        92.56 13@Horvathb.Horvath}
+  {     -103.89        92.56 13@Horvathb.Horvath}
+  {     -108.18        82.49 14@Horvathb.Horvath}
+  {     -108.18        82.49 14@Horvathb.Horvath}
+  {     -108.18        82.49 14@Horvathb.Horvath}
+  {     -108.18        82.49 14@Horvathb.Horvath}
+  {     -108.18        82.49 14@Horvathb.Horvath}
+  {     -108.18        82.49 14@Horvathb.Horvath}
+  {     -108.18        82.49 14@Horvathb.Horvath}
+  {     -108.18        82.49 14@Horvathb.Horvath}
+  {     -108.18        82.49 14@Horvathb.Horvath}
+  {     -108.18        82.49 14@Horvathb.Horvath}
+  {     -108.18        82.49 14@Horvathb.Horvath}
+  {     -108.18        82.49 14@Horvathb.Horvath}
+  {     -108.18        82.49 14@Horvathb.Horvath}
+  {     -108.18        82.49 14@Horvathb.Horvath}
+  {     -108.18        82.49 14@Horvathb.Horvath}
+  {     -108.18        82.49 14@Horvathb.Horvath}
+  {     -108.18        82.49 14@Horvathb.Horvath}
+  {     -108.18        82.49 14@Horvathb.Horvath}
+  {     -183.71        72.82 15@Horvathb.Horvath}
+  {     -183.71        72.82 15@Horvathb.Horvath}
+  {     -183.71        72.82 15@Horvathb.Horvath}
+  {     -183.71        72.82 15@Horvathb.Horvath}
+  {     -183.71        72.82 15@Horvathb.Horvath}
+  {     -183.71        72.82 15@Horvathb.Horvath}
+  {     -183.71        72.82 15@Horvathb.Horvath}
+  {     -183.71        72.82 15@Horvathb.Horvath}
+  {     -183.71        72.82 15@Horvathb.Horvath}
+  {     -183.71        72.82 15@Horvathb.Horvath}
+  {     -183.71        72.82 15@Horvathb.Horvath}
+  {     -183.71        72.82 15@Horvathb.Horvath}
+  {     -183.71        72.82 15@Horvathb.Horvath}
+  {     -183.71        72.82 15@Horvathb.Horvath}
+  {     -183.71        72.82 15@Horvathb.Horvath}
+  {     -183.71        72.82 15@Horvathb.Horvath}
+  {     -183.71        72.82 15@Horvathb.Horvath}
+  {     -183.71        72.82 15@Horvathb.Horvath}
+  {     -183.71        72.82 15@Horvathb.Horvath}
+  {     -183.71        72.82 15@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -228.94        79.66 16@Horvathb.Horvath}
+  {     -217.46        72.48 17@Horvathb.Horvath}
+  {     -217.46        72.48 17@Horvathb.Horvath}
+  {     -217.46        72.48 17@Horvathb.Horvath}
+  {     -217.46        72.48 17@Horvathb.Horvath}
+  {     -217.46        72.48 17@Horvathb.Horvath}
+  {     -217.46        72.48 17@Horvathb.Horvath}
+  {     -217.46        72.48 17@Horvathb.Horvath}
+  {     -217.46        72.48 17@Horvathb.Horvath}
+  {     -217.46        72.48 17@Horvathb.Horvath}
+  {     -217.46        72.48 17@Horvathb.Horvath}
+  {     -217.46        72.48 17@Horvathb.Horvath}
+  {     -217.46        72.48 17@Horvathb.Horvath}
+  {     -217.46        72.48 17@Horvathb.Horvath}
+  {     -217.46        72.48 17@Horvathb.Horvath}
+  {     -217.46        72.48 17@Horvathb.Horvath}
+  {     -217.46        72.48 17@Horvathb.Horvath}
+  {     -217.46        72.48 17@Horvathb.Horvath}
+  {     -176.29       122.42 18@Horvathb.Horvath}
+  {     -217.46        72.48 17@Horvathb.Horvath}
+  {     -177.11        16.54 19@Horvathb.Horvath}
+  {     -177.11        16.54 19@Horvathb.Horvath}
+  {     -177.11        16.54 19@Horvathb.Horvath}
+  {     -177.11        16.54 19@Horvathb.Horvath}
+  {     -177.11        16.54 19@Horvathb.Horvath}
+  {     -177.11        16.54 19@Horvathb.Horvath}
+  {     -177.11        16.54 19@Horvathb.Horvath}
+  {     -177.11        16.54 19@Horvathb.Horvath}
+  {     -177.11        16.54 19@Horvathb.Horvath}
+  {     -177.11        16.54 19@Horvathb.Horvath}
+  {     -177.11        16.54 19@Horvathb.Horvath}
+  {     -177.11        16.54 19@Horvathb.Horvath}
+  {     -177.11        16.54 19@Horvathb.Horvath}
+  {     -177.11        16.54 19@Horvathb.Horvath}
+  {     -177.11        16.54 19@Horvathb.Horvath}
+  {     -177.11        16.54 19@Horvathb.Horvath}
+  {     -177.11        16.54 19@Horvathb.Horvath}
+  {     -177.11        16.54 19@Horvathb.Horvath}
   {     -226.75        25.65 20@Horvathb.Horvath}
-  {     -276.40        16.54 19@Horvathb.Horvath}
-  {     -300.82        19.84 21@Horvathb.Horvath}
-  {     -300.82        19.84 21@Horvathb.Horvath}
-  {     -300.82        19.84 21@Horvathb.Horvath}
-  {     -300.82        19.84 21@Horvathb.Horvath}
-  {     -300.82        19.84 21@Horvathb.Horvath}
-  {     -300.82        19.84 21@Horvathb.Horvath}
-  {     -300.82        19.84 21@Horvathb.Horvath}
-  {     -300.82        19.84 21@Horvathb.Horvath}
-  {     -300.82        19.84 21@Horvathb.Horvath}
-  {     -300.82        19.84 21@Horvathb.Horvath}
-  {     -300.82        19.84 21@Horvathb.Horvath}
-  {     -300.82        19.84 21@Horvathb.Horvath}
-  {     -300.82        19.84 21@Horvathb.Horvath}
-  {     -300.82        19.84 21@Horvathb.Horvath}
-  {     -300.82        19.84 21@Horvathb.Horvath}
-  {     -300.82        19.84 21@Horvathb.Horvath}
-  {     -300.82        19.84 21@Horvathb.Horvath}
-  {     -322.91        37.85 22@Horvathb.Horvath}
-  {     -322.91        37.85 22@Horvathb.Horvath}
-  {     -322.91        37.85 22@Horvathb.Horvath}
-  {     -322.91        37.85 22@Horvathb.Horvath}
-  {     -322.91        37.85 22@Horvathb.Horvath}
-  {     -322.91        37.85 22@Horvathb.Horvath}
-  {     -322.91        37.85 22@Horvathb.Horvath}
-  {     -322.91        37.85 22@Horvathb.Horvath}
-  {     -322.91        37.85 22@Horvathb.Horvath}
-  {     -322.91        37.85 22@Horvathb.Horvath}
-  {     -322.91        37.85 22@Horvathb.Horvath}
-  {     -322.91        37.85 22@Horvathb.Horvath}
-  {     -360.14        54.51 23@Horvathb.Horvath}
-  {     -300.82        19.84 21@Horvathb.Horvath}
-  {     -362.63        15.41 24@Horvathb.Horvath}
-  {     -362.63        15.41 24@Horvathb.Horvath}
-  {     -362.63        15.41 24@Horvathb.Horvath}
-  {     -362.63        15.41 24@Horvathb.Horvath}
-  {     -362.63        15.41 24@Horvathb.Horvath}
-  {     -362.63        15.41 24@Horvathb.Horvath}
-  {     -362.63        15.41 24@Horvathb.Horvath}
-  {     -362.63        15.41 24@Horvathb.Horvath}
-  {     -362.63        15.41 24@Horvathb.Horvath}
-  {     -399.30        16.69 25@Horvathb.Horvath}
-  {     -399.30        16.69 25@Horvathb.Horvath}
-  {     -399.30        16.69 25@Horvathb.Horvath}
-  {     -399.30        16.69 25@Horvathb.Horvath}
-  {     -399.30        16.69 25@Horvathb.Horvath}
-  {     -399.30        16.69 25@Horvathb.Horvath}
-  {     -399.30        16.69 25@Horvathb.Horvath}
-  {     -399.30        16.69 25@Horvathb.Horvath}
-  {     -399.30        16.69 25@Horvathb.Horvath}
-  {     -399.30        16.69 25@Horvathb.Horvath}
-  {     -399.30        16.69 25@Horvathb.Horvath}
-  {     -399.30        16.69 25@Horvathb.Horvath}
-  {     -399.30        16.69 25@Horvathb.Horvath}
-  {     -399.30        16.69 25@Horvathb.Horvath}
-  {     -399.30        16.69 25@Horvathb.Horvath}
-  {     -399.30        16.69 25@Horvathb.Horvath}
-  {     -399.30        16.69 25@Horvathb.Horvath}
-  {     -399.30        16.69 25@Horvathb.Horvath}
-  {     -426.74       -15.79 26@Horvathb.Horvath}
-  {     -426.74       -15.79 26@Horvathb.Horvath}
-  {     -426.74       -15.79 26@Horvathb.Horvath}
-  {     -426.74       -15.79 26@Horvathb.Horvath}
-  {     -426.74       -15.79 26@Horvathb.Horvath}
-  {     -426.74       -15.79 26@Horvathb.Horvath}
-  {     -426.74       -15.79 26@Horvathb.Horvath}
-  {     -426.74       -15.79 26@Horvathb.Horvath}
-  {     -426.74       -15.79 26@Horvathb.Horvath}
-  {     -426.74       -15.79 26@Horvathb.Horvath}
-  {     -426.74       -15.79 26@Horvathb.Horvath}
-  {     -426.74       -15.79 26@Horvathb.Horvath}
-  {     -426.74       -15.79 26@Horvathb.Horvath}
-  {     -471.10       -26.68 27@Horvathb.Horvath}
-  {     -471.10       -26.68 27@Horvathb.Horvath}
-  {     -471.10       -26.68 27@Horvathb.Horvath}
-  {     -471.10       -26.68 27@Horvathb.Horvath}
-  {     -471.10       -26.68 27@Horvathb.Horvath}
-  {     -471.10       -26.68 27@Horvathb.Horvath}
-  {     -471.10       -26.68 27@Horvathb.Horvath}
-  {     -471.10       -26.68 27@Horvathb.Horvath}
-  {     -471.10       -26.68 27@Horvathb.Horvath}
-  {     -471.10       -26.68 27@Horvathb.Horvath}
-  {     -471.10       -26.68 27@Horvathb.Horvath}
-  {     -471.10       -26.68 27@Horvathb.Horvath}
-  {     -471.10       -26.68 27@Horvathb.Horvath}
-  {     -436.06       -32.92 28@Horvathb.Horvath}
-  {     -436.06       -32.92 28@Horvathb.Horvath}
-  {     -436.06       -32.92 28@Horvathb.Horvath}
-  {     -436.06       -32.92 28@Horvathb.Horvath}
-  {     -436.06       -32.92 28@Horvathb.Horvath}
-  {     -436.06       -32.92 28@Horvathb.Horvath}
-  {     -436.06       -32.92 28@Horvathb.Horvath}
-  {     -436.06       -32.92 28@Horvathb.Horvath}
-  {     -436.06       -32.92 28@Horvathb.Horvath}
-  {     -436.06       -32.92 28@Horvathb.Horvath}
-  {     -400.37       -36.92 29@Horvathb.Horvath}
-  {     -400.37       -36.92 29@Horvathb.Horvath}
-  {     -400.37       -36.92 29@Horvathb.Horvath}
-  {     -400.37       -36.92 29@Horvathb.Horvath}
-  {     -400.37       -36.92 29@Horvathb.Horvath}
-  {     -400.37       -36.92 29@Horvathb.Horvath}
-  {     -400.37       -36.92 29@Horvathb.Horvath}
-  {     -400.37       -36.92 29@Horvathb.Horvath}
-  {     -400.37       -36.92 29@Horvathb.Horvath}
-  {     -400.37       -36.92 29@Horvathb.Horvath}
-  {     -400.37       -36.92 29@Horvathb.Horvath}
-  {     -375.47       -51.89 30@Horvathb.Horvath}
+  {     -177.11        16.54 19@Horvathb.Horvath}
+  {     -152.69        19.84 21@Horvathb.Horvath}
+  {     -152.69        19.84 21@Horvathb.Horvath}
+  {     -152.69        19.84 21@Horvathb.Horvath}
+  {     -152.69        19.84 21@Horvathb.Horvath}
+  {     -152.69        19.84 21@Horvathb.Horvath}
+  {     -152.69        19.84 21@Horvathb.Horvath}
+  {     -152.69        19.84 21@Horvathb.Horvath}
+  {     -152.69        19.84 21@Horvathb.Horvath}
+  {     -152.69        19.84 21@Horvathb.Horvath}
+  {     -152.69        19.84 21@Horvathb.Horvath}
+  {     -152.69        19.84 21@Horvathb.Horvath}
+  {     -152.69        19.84 21@Horvathb.Horvath}
+  {     -152.69        19.84 21@Horvathb.Horvath}
+  {     -152.69        19.84 21@Horvathb.Horvath}
+  {     -152.69        19.84 21@Horvathb.Horvath}
+  {     -152.69        19.84 21@Horvathb.Horvath}
+  {     -152.69        19.84 21@Horvathb.Horvath}
+  {     -130.60        37.85 22@Horvathb.Horvath}
+  {     -130.60        37.85 22@Horvathb.Horvath}
+  {     -130.60        37.85 22@Horvathb.Horvath}
+  {     -130.60        37.85 22@Horvathb.Horvath}
+  {     -130.60        37.85 22@Horvathb.Horvath}
+  {     -130.60        37.85 22@Horvathb.Horvath}
+  {     -130.60        37.85 22@Horvathb.Horvath}
+  {     -130.60        37.85 22@Horvathb.Horvath}
+  {     -130.60        37.85 22@Horvathb.Horvath}
+  {     -130.60        37.85 22@Horvathb.Horvath}
+  {     -130.60        37.85 22@Horvathb.Horvath}
+  {     -130.60        37.85 22@Horvathb.Horvath}
+  {      -93.36        54.51 23@Horvathb.Horvath}
+  {     -152.69        19.84 21@Horvathb.Horvath}
+  {      -90.88        15.41 24@Horvathb.Horvath}
+  {      -90.88        15.41 24@Horvathb.Horvath}
+  {      -90.88        15.41 24@Horvathb.Horvath}
+  {      -90.88        15.41 24@Horvathb.Horvath}
+  {      -90.88        15.41 24@Horvathb.Horvath}
+  {      -90.88        15.41 24@Horvathb.Horvath}
+  {      -90.88        15.41 24@Horvathb.Horvath}
+  {      -90.88        15.41 24@Horvathb.Horvath}
+  {      -90.88        15.41 24@Horvathb.Horvath}
+  {      -54.21        16.69 25@Horvathb.Horvath}
+  {      -54.21        16.69 25@Horvathb.Horvath}
+  {      -54.21        16.69 25@Horvathb.Horvath}
+  {      -54.21        16.69 25@Horvathb.Horvath}
+  {      -54.21        16.69 25@Horvathb.Horvath}
+  {      -54.21        16.69 25@Horvathb.Horvath}
+  {      -54.21        16.69 25@Horvathb.Horvath}
+  {      -54.21        16.69 25@Horvathb.Horvath}
+  {      -54.21        16.69 25@Horvathb.Horvath}
+  {      -54.21        16.69 25@Horvathb.Horvath}
+  {      -54.21        16.69 25@Horvathb.Horvath}
+  {      -54.21        16.69 25@Horvathb.Horvath}
+  {      -54.21        16.69 25@Horvathb.Horvath}
+  {      -54.21        16.69 25@Horvathb.Horvath}
+  {      -54.21        16.69 25@Horvathb.Horvath}
+  {      -54.21        16.69 25@Horvathb.Horvath}
+  {      -54.21        16.69 25@Horvathb.Horvath}
+  {      -54.21        16.69 25@Horvathb.Horvath}
+  {      -26.76       -15.79 26@Horvathb.Horvath}
+  {      -26.76       -15.79 26@Horvathb.Horvath}
+  {      -26.76       -15.79 26@Horvathb.Horvath}
+  {      -26.76       -15.79 26@Horvathb.Horvath}
+  {      -26.76       -15.79 26@Horvathb.Horvath}
+  {      -26.76       -15.79 26@Horvathb.Horvath}
+  {      -26.76       -15.79 26@Horvathb.Horvath}
+  {      -26.76       -15.79 26@Horvathb.Horvath}
+  {      -26.76       -15.79 26@Horvathb.Horvath}
+  {      -26.76       -15.79 26@Horvathb.Horvath}
+  {      -26.76       -15.79 26@Horvathb.Horvath}
+  {      -26.76       -15.79 26@Horvathb.Horvath}
+  {      -26.76       -15.79 26@Horvathb.Horvath}
+  {       17.59       -26.68 27@Horvathb.Horvath}
+  {       17.59       -26.68 27@Horvathb.Horvath}
+  {       17.59       -26.68 27@Horvathb.Horvath}
+  {       17.59       -26.68 27@Horvathb.Horvath}
+  {       17.59       -26.68 27@Horvathb.Horvath}
+  {       17.59       -26.68 27@Horvathb.Horvath}
+  {       17.59       -26.68 27@Horvathb.Horvath}
+  {       17.59       -26.68 27@Horvathb.Horvath}
+  {       17.59       -26.68 27@Horvathb.Horvath}
+  {       17.59       -26.68 27@Horvathb.Horvath}
+  {       17.59       -26.68 27@Horvathb.Horvath}
+  {       17.59       -26.68 27@Horvathb.Horvath}
+  {       17.59       -26.68 27@Horvathb.Horvath}
+  {      -17.45       -32.92 28@Horvathb.Horvath}
+  {      -17.45       -32.92 28@Horvathb.Horvath}
+  {      -17.45       -32.92 28@Horvathb.Horvath}
+  {      -17.45       -32.92 28@Horvathb.Horvath}
+  {      -17.45       -32.92 28@Horvathb.Horvath}
+  {      -17.45       -32.92 28@Horvathb.Horvath}
+  {      -17.45       -32.92 28@Horvathb.Horvath}
+  {      -17.45       -32.92 28@Horvathb.Horvath}
+  {      -17.45       -32.92 28@Horvathb.Horvath}
+  {      -17.45       -32.92 28@Horvathb.Horvath}
+  {      -53.13       -36.92 29@Horvathb.Horvath}
+  {      -53.13       -36.92 29@Horvathb.Horvath}
+  {      -53.13       -36.92 29@Horvathb.Horvath}
+  {      -53.13       -36.92 29@Horvathb.Horvath}
+  {      -53.13       -36.92 29@Horvathb.Horvath}
+  {      -53.13       -36.92 29@Horvathb.Horvath}
+  {      -53.13       -36.92 29@Horvathb.Horvath}
+  {      -53.13       -36.92 29@Horvathb.Horvath}
+  {      -53.13       -36.92 29@Horvathb.Horvath}
+  {      -53.13       -36.92 29@Horvathb.Horvath}
+  {      -53.13       -36.92 29@Horvathb.Horvath}
+  {      -78.04       -51.89 30@Horvathb.Horvath}
 }
 set XVIshots {
   {     -588.93       -26.14      -566.56       -26.19}
@@ -2081,30 +2081,30 @@ set XVIshots {
   {     -256.35        21.28      -252.69        24.89}
   {     -256.35        21.28      -249.80        25.01}
   {     -256.35        21.28      -226.75        25.65}
-  {     -226.75        25.65      -228.94        14.77}
-  {     -226.75        25.65      -238.31        24.46}
-  {     -226.75        25.65      -268.10        23.02}
-  {     -226.75        25.65      -272.03        26.39}
-  {     -226.75        25.65      -287.63        27.95}
-  {     -226.75        25.65      -280.11        21.91}
-  {     -226.75        25.65      -286.10        16.61}
-  {     -226.75        25.65      -285.51        20.09}
-  {     -226.75        25.65      -324.35        22.34}
-  {     -226.75        25.65      -314.18        19.46}
-  {     -226.75        25.65      -278.12        23.85}
-  {     -226.75        25.65      -262.96        27.08}
-  {     -226.75        25.65      -245.32        28.05}
-  {     -226.75        25.65      -236.98        27.09}
-  {     -226.75        25.65      -230.12        24.96}
-  {     -226.75        25.65      -223.42        26.42}
-  {     -226.75        25.65      -232.27        34.90}
-  {     -226.75        25.65      -240.10        43.69}
-  {     -226.75        25.65      -271.55        53.09}
-  {     -226.75        25.65      -288.49        80.81}
-  {     -226.75        25.65      -294.40        97.55}
-  {     -226.75        25.65      -266.95        98.75}
-  {     -226.75        25.65      -274.23        76.23}
-  {     -226.75        25.65      -266.60        50.01}
+  {     -226.75        25.65      -219.42        14.77}
+  {     -226.75        25.65      -210.64        24.46}
+  {     -226.75        25.65      -176.62        23.02}
+  {     -226.75        25.65      -179.71        26.39}
+  {     -226.75        25.65      -164.11        27.95}
+  {     -226.75        25.65      -173.40        21.91}
+  {     -226.75        25.65      -167.05        16.61}
+  {     -226.75        25.65      -166.86        20.09}
+  {     -226.75        25.65      -127.08        22.34}
+  {     -226.75        25.65      -138.34        19.46}
+  {     -226.75        25.65      -175.39        23.85}
+  {     -226.75        25.65      -190.55        27.08}
+  {     -226.75        25.65      -208.19        28.05}
+  {     -226.75        25.65      -216.52        27.09}
+  {     -226.75        25.65      -236.13        24.96}
+  {     -226.75        25.65      -240.86        26.42}
+  {     -226.75        25.65      -221.23        34.90}
+  {     -226.75        25.65      -212.44        43.69}
+  {     -226.75        25.65      -181.95        53.09}
+  {     -226.75        25.65      -157.98        80.81}
+  {     -226.75        25.65      -149.20        97.55}
+  {     -226.75        25.65      -173.43        98.75}
+  {     -226.75        25.65      -164.01        76.23}
+  {     -226.75        25.65      -176.20        50.01}
   {     -226.75        25.65      -153.08       115.02}
   {     -226.75        25.65       -37.11         9.72}
   {     -411.94       -27.55      -431.20       -20.66}
@@ -2385,392 +2385,392 @@ set XVIshots {
   {      908.30      -222.58      1105.15      -222.58}
   {     1105.15      -222.58      1105.15      -167.46}
   {     1105.15      -167.46      1183.89      -167.46}
-  {     -168.09       209.89      -172.78       211.10}
-  {     -168.09       209.89      -159.40       211.23}
-  {     -168.09       209.89      -155.83       209.25}
-  {     -168.09       209.89      -145.99       213.59}
-  {     -168.09       209.89      -158.68       223.63}
-  {     -168.09       209.89      -175.86       225.77}
-  {     -168.09       209.89      -157.49       246.39}
-  {     -168.09       209.89      -172.21       240.44}
-  {     -168.09       209.89      -168.74       230.15}
-  {     -168.09       209.89      -161.34       194.06}
-  {     -168.09       209.89      -144.47       193.23}
-  {     -168.09       209.89      -158.08       201.74}
-  {     -168.09       209.89      -152.81       198.72}
-  {     -168.09       209.89      -133.72       174.57}
-  {     -168.09       209.89      -151.04       200.80}
-  {     -168.09       209.89      -155.39       246.99}
-  {     -168.09       209.89      -136.95       181.75}
-  {     -155.39       246.99      -127.67       218.85}
-  {     -136.95       181.75      -148.73       181.07}
-  {     -136.95       181.75      -145.02       183.10}
-  {     -136.95       181.75      -148.61       187.37}
-  {     -136.95       181.75      -160.43       191.92}
-  {     -136.95       181.75      -133.77       172.79}
-  {     -136.95       181.75      -144.74       177.33}
-  {     -136.95       181.75      -129.73       186.38}
-  {     -136.95       181.75      -125.09       209.19}
-  {     -136.95       181.75      -143.38       198.22}
-  {     -136.95       181.75      -119.56       185.39}
-  {     -136.95       181.75      -123.86       174.13}
-  {     -136.95       181.75      -116.29       174.38}
-  {     -136.95       181.75      -111.06       167.83}
-  {     -136.95       181.75      -128.74       172.41}
-  {     -136.95       181.75      -139.92       185.53}
-  {     -136.95       181.75      -133.26       188.68}
-  {     -136.95       181.75      -142.46       198.35}
-  {     -136.95       181.75      -143.89       192.37}
-  {     -136.95       181.75      -114.87       172.70}
-  {     -114.87       172.70      -107.44       170.63}
-  {     -114.87       172.70      -115.56       177.51}
-  {     -114.87       172.70      -116.90       170.11}
-  {     -114.87       172.70      -130.36       166.20}
-  {     -114.87       172.70      -125.05       171.88}
-  {     -114.87       172.70      -133.22       181.83}
-  {     -114.87       172.70      -140.09       171.99}
-  {     -114.87       172.70      -127.37       165.35}
-  {     -114.87       172.70      -139.05       188.62}
-  {     -114.87       172.70      -120.41       181.24}
-  {     -114.87       172.70      -115.39       187.52}
-  {     -114.87       172.70      -135.49       168.99}
-  {     -135.49       168.99      -138.89       172.79}
-  {     -135.49       168.99      -146.00       195.31}
-  {     -135.49       168.99      -140.13       182.07}
-  {     -135.49       168.99      -140.33       175.29}
-  {     -135.49       168.99      -136.55       171.03}
-  {     -135.49       168.99      -138.32       166.59}
-  {     -135.49       168.99      -135.20       163.95}
-  {     -135.49       168.99      -134.25       168.67}
-  {     -135.49       168.99      -130.15       170.33}
-  {     -135.49       168.99      -126.03       171.65}
-  {     -135.49       168.99      -131.21       176.68}
-  {     -135.49       168.99      -151.95       179.20}
-  {     -151.95       179.20      -148.79       170.88}
-  {     -151.95       179.20      -148.39       178.67}
-  {     -151.95       179.20      -144.40       181.27}
-  {     -151.95       179.20      -146.73       181.07}
-  {     -151.95       179.20      -149.62       189.46}
-  {     -151.95       179.20      -139.89       191.73}
-  {     -151.95       179.20      -155.88       179.38}
-  {     -151.95       179.20      -170.36       176.39}
-  {     -151.95       179.20      -164.71       173.01}
-  {     -151.95       179.20      -147.39       168.54}
-  {     -151.95       179.20      -149.68       172.98}
-  {     -151.95       179.20      -144.71       169.34}
-  {     -151.95       179.20      -146.30       166.49}
-  {     -151.95       179.20      -156.14       174.84}
-  {     -151.95       179.20      -165.86       178.26}
-  {     -151.95       179.20      -151.95       181.84}
-  {     -151.95       181.84      -134.69       179.98}
-  {     -151.95       181.84      -135.53       178.84}
-  {     -151.95       181.84      -135.71       177.63}
-  {     -151.95       181.84      -147.32       177.51}
-  {     -151.95       181.84      -145.55       184.21}
-  {     -151.95       181.84      -150.05       183.34}
-  {     -151.95       181.84      -140.00       183.64}
-  {     -151.95       181.84      -145.01       182.47}
-  {     -151.95       181.84      -130.03       187.63}
-  {     -151.95       179.20      -144.20       180.03}
-  {     -130.03       187.63      -137.11       187.67}
-  {     -144.20       180.03      -143.44       180.01}
-  {     -144.20       180.03      -145.67       172.86}
-  {     -144.20       180.03      -146.17       174.71}
-  {     -144.20       180.03      -147.10       171.98}
-  {     -144.20       180.03      -152.76       172.18}
-  {     -144.20       180.03      -155.03       168.50}
-  {     -144.20       180.03      -150.58       169.02}
-  {     -144.20       180.03      -145.09       177.62}
-  {     -144.20       180.03      -153.26       166.29}
-  {     -153.26       166.29      -156.57       170.08}
-  {     -153.26       166.29      -150.16       172.31}
-  {     -153.26       166.29      -149.36       176.23}
-  {     -153.26       166.29      -148.12       166.71}
-  {     -153.26       166.29      -150.80       164.74}
-  {     -153.26       166.29      -159.23       165.58}
-  {     -153.26       166.29      -158.95       159.26}
-  {     -153.26       166.29      -155.24       157.95}
-  {     -153.26       166.29      -153.52       143.99}
-  {     -153.26       166.29      -145.79       139.15}
-  {     -153.26       166.29      -141.62       144.22}
-  {     -153.26       166.29      -143.68       151.21}
-  {     -153.26       166.29      -128.33       146.70}
-  {     -153.26       166.29      -134.00       138.75}
-  {     -153.26       166.29      -137.75       136.23}
-  {     -153.26       166.29      -137.72       122.94}
-  {     -153.26       166.29      -121.61       116.42}
-  {     -121.61       116.42      -105.93       112.54}
-  {     -121.61       116.42      -119.53       115.46}
-  {     -121.61       116.42      -118.74       117.32}
-  {     -121.61       116.42      -144.01       131.41}
-  {     -121.61       116.42      -138.96       142.09}
-  {     -121.61       116.42      -124.84       134.01}
-  {     -121.61       116.42      -112.73       136.96}
-  {     -121.61       116.42       -93.78       115.10}
-  {     -121.61       116.42      -107.33       116.75}
-  {     -121.61       116.42      -138.95       122.55}
-  {     -121.61       116.42      -143.85       140.00}
-  {     -121.61       116.42      -138.37       127.23}
-  {     -121.61       116.42      -119.27        97.23}
-  {     -121.61       116.42      -124.90       102.96}
-  {     -121.61       116.42      -121.66       108.60}
-  {     -121.61       116.42      -110.51       109.03}
-  {     -121.61       116.42       -82.19       104.68}
-  {     -121.61       116.42       -87.97        97.91}
-  {     -121.61       116.42       -96.30        99.03}
-  {     -121.61       116.42       -98.21        97.27}
-  {     -121.61       116.42       -99.84        93.37}
-  {     -121.61       116.42      -101.18        91.25}
-  {     -121.61       116.42      -111.98        98.28}
-  {     -121.61       116.42      -100.85        91.72}
-  {     -121.61       116.42      -106.63       103.82}
-  {     -121.61       116.42      -110.85        98.79}
-  {     -121.61       116.42       -96.58        92.59}
-  {      -96.58        92.59      -113.82        93.35}
-  {      -96.58        92.59       -92.84        93.61}
-  {      -96.58        92.59       -87.88        92.79}
-  {      -96.58        92.59      -122.90        93.01}
-  {      -96.58        92.59      -148.14        95.59}
-  {      -96.58        92.59      -183.06        95.03}
-  {      -96.58        92.59      -161.36        93.60}
-  {      -96.58        92.59      -123.01        93.52}
-  {      -96.58        92.59      -115.98        97.55}
-  {      -96.58        92.59      -145.42        97.93}
-  {      -96.58        92.59      -103.77       103.55}
-  {      -96.58        92.59      -100.43       101.45}
-  {      -96.58        92.59      -205.14        94.86}
-  {      -96.58        92.59      -234.40        96.44}
-  {      -96.58        92.59      -205.07        94.67}
-  {     -205.07        94.67      -200.04        95.49}
-  {     -205.07        94.67      -210.48        96.51}
-  {     -205.07        94.67      -204.10        99.45}
-  {     -205.07        94.67      -227.85        96.86}
-  {     -205.07        94.67      -241.41        94.61}
-  {     -205.07        94.67      -290.84        97.66}
-  {     -205.07        94.67      -256.02        92.62}
-  {     -205.07        94.67      -231.13        96.49}
-  {     -205.07        94.67      -222.19        99.57}
-  {     -205.07        94.67      -280.56        96.15}
-  {     -205.07        94.67      -256.23        99.18}
-  {     -205.07        94.67      -219.86        97.22}
-  {     -205.07        94.67      -186.02        92.04}
-  {     -205.07        94.67      -147.10        95.52}
-  {     -205.07        94.67      -188.66        99.57}
-  {     -205.07        94.67      -170.99        94.03}
-  {     -205.07        94.67      -176.38        90.77}
-  {     -205.07        94.67      -197.06        90.55}
-  {     -205.07        94.67      -228.45        89.57}
-  {     -205.07        94.67      -243.09        89.19}
-  {     -205.07        94.67      -265.50        92.56}
-  {     -265.50        92.56      -245.91        93.63}
-  {     -265.50        92.56      -246.90        92.06}
-  {     -265.50        92.56      -250.75        98.81}
-  {     -265.50        92.56      -238.86        88.56}
-  {     -265.50        92.56      -253.83        87.31}
-  {     -265.50        92.56      -264.54        84.50}
-  {     -265.50        92.56      -272.00        76.03}
-  {     -265.50        92.56      -271.58        94.59}
-  {     -265.50        92.56      -283.97        95.43}
-  {     -265.50        92.56      -289.64        94.34}
-  {     -265.50        92.56      -289.30        94.08}
-  {     -265.50        92.56      -281.70        79.04}
-  {     -265.50        92.56      -280.09        75.63}
-  {     -265.50        92.56      -275.37        76.20}
-  {     -265.50        92.56      -284.80        82.28}
-  {     -265.50        92.56      -272.90        99.09}
-  {     -265.50        92.56      -281.91        95.23}
-  {     -265.50        92.56      -267.73        98.84}
-  {     -265.50        92.56      -269.80        82.49}
-  {     -269.80        82.49      -272.28        73.14}
-  {     -269.80        82.49      -270.63        74.86}
-  {     -269.80        82.49      -272.14        80.90}
-  {     -269.80        82.49      -274.90        88.73}
-  {     -269.80        82.49      -315.39        72.17}
-  {     -269.80        82.49      -341.23        80.10}
-  {     -269.80        82.49      -324.15        86.20}
-  {     -269.80        82.49      -306.60        89.26}
-  {     -269.80        82.49      -334.48        81.25}
-  {     -269.80        82.49      -289.70        83.72}
-  {     -269.80        82.49      -292.59        74.10}
-  {     -269.80        82.49      -251.47        90.40}
-  {     -269.80        82.49      -258.25        82.13}
-  {     -269.80        82.49      -256.77        84.42}
-  {     -269.80        82.49      -254.72        84.96}
-  {     -269.80        82.49      -262.00        84.91}
-  {     -269.80        82.49      -269.80        72.82}
-  {     -269.80        72.82      -269.01        71.88}
-  {     -269.80        72.82      -269.28        71.54}
-  {     -269.80        72.82      -267.15        82.34}
-  {     -269.80        72.82      -261.83        83.96}
-  {     -269.80        72.82      -268.77        77.83}
-  {     -269.80        72.82      -250.63        76.00}
-  {     -269.80        72.82      -233.67        77.65}
-  {     -269.80        72.82      -243.14        87.24}
-  {     -269.80        72.82      -267.23        73.64}
-  {     -269.80        72.82      -249.40        85.77}
-  {     -269.80        72.82      -240.65        78.43}
-  {     -269.80        72.82      -247.29        70.33}
-  {     -269.80        72.82      -250.98        73.93}
-  {     -269.80        72.82      -248.03        74.52}
-  {     -269.80        72.82      -253.01        81.48}
-  {     -269.80        72.82      -231.55        83.24}
-  {     -269.80        72.82      -235.15        74.64}
-  {     -269.80        72.82      -231.29        74.63}
-  {     -269.80        72.82      -224.56        79.66}
-  {     -224.56        79.66      -225.51        67.81}
-  {     -224.56        79.66      -227.97        74.89}
-  {     -224.56        79.66      -220.16        80.80}
-  {     -224.56        79.66      -223.38        85.74}
-  {     -224.56        79.66      -235.50        85.22}
-  {     -224.56        79.66      -236.10        75.13}
-  {     -224.56        79.66      -257.99        77.49}
-  {     -224.56        79.66      -265.72        74.83}
-  {     -224.56        79.66      -233.44        72.39}
-  {     -224.56        79.66      -230.89        75.39}
-  {     -224.56        79.66      -235.05        64.23}
-  {     -224.56        79.66      -228.43        66.09}
-  {     -224.56        79.66      -237.06        52.09}
-  {     -224.56        79.66      -238.98        48.86}
-  {     -224.56        79.66      -262.51        48.70}
-  {     -224.56        79.66      -249.71        53.21}
-  {     -224.56        79.66      -282.03        59.16}
-  {     -224.56        79.66      -267.70        65.84}
-  {     -224.56        79.66      -214.05        68.30}
-  {     -224.56        79.66      -199.13        74.53}
-  {     -224.56        79.66      -213.58        82.90}
-  {     -224.56        79.66      -170.18        77.66}
-  {     -224.56        79.66      -212.27        74.15}
-  {     -224.56        79.66      -236.05        72.48}
-  {     -236.05        72.48      -247.62        65.47}
-  {     -236.05        72.48      -243.65        73.17}
-  {     -236.05        72.48      -262.96        73.80}
-  {     -236.05        72.48      -269.51        70.93}
-  {     -236.05        72.48      -273.80        70.89}
-  {     -236.05        72.48      -252.12        70.56}
-  {     -236.05        72.48      -231.62        71.86}
-  {     -236.05        72.48      -283.13        16.42}
-  {     -236.05        72.48      -263.57        29.67}
-  {     -236.05        72.48      -243.60        46.05}
-  {     -236.05        72.48      -272.13        22.32}
-  {     -236.05        72.48      -258.86        37.56}
-  {     -236.05        72.48      -263.79        57.90}
-  {     -236.05        72.48      -238.53        77.16}
-  {     -236.05        72.48      -260.01       124.74}
-  {     -236.05        72.48      -277.22       122.42}
-  {     -236.05        72.48      -276.40        16.54}
-  {     -276.40        16.54      -265.14        18.73}
-  {     -276.40        16.54      -245.94        19.48}
-  {     -276.40        16.54      -202.09        23.74}
-  {     -276.40        16.54      -222.01        15.85}
-  {     -276.40        16.54      -221.65        17.68}
-  {     -276.40        16.54      -257.74        24.15}
-  {     -276.40        16.54      -274.33        26.02}
-  {     -276.40        16.54      -246.40        44.75}
-  {     -276.40        16.54      -254.33        59.83}
-  {     -276.40        16.54      -264.20        71.61}
-  {     -276.40        16.54      -265.51        77.17}
-  {     -276.40        16.54      -277.43        83.68}
-  {     -276.40        16.54      -283.15       106.45}
-  {     -276.40        16.54      -272.44        68.08}
-  {     -276.40        16.54      -268.71        64.01}
-  {     -276.40        16.54      -287.02        27.32}
-  {     -276.40        16.54      -226.75        25.65}
-  {     -276.40        16.54      -300.82        19.84}
-  {     -300.82        19.84      -303.45        19.94}
-  {     -300.82        19.84      -308.06        21.28}
-  {     -300.82        19.84      -304.16        13.98}
-  {     -300.82        19.84      -315.69        17.52}
-  {     -300.82        19.84      -333.14        12.42}
-  {     -300.82        19.84      -337.64        19.51}
-  {     -300.82        19.84      -319.25        24.88}
-  {     -300.82        19.84      -303.76        29.04}
-  {     -300.82        19.84      -315.56        33.33}
-  {     -300.82        19.84      -306.67        22.77}
-  {     -300.82        19.84      -311.16        28.64}
-  {     -300.82        19.84      -315.22        33.83}
-  {     -300.82        19.84      -308.29        28.32}
-  {     -300.82        19.84      -315.42        35.09}
-  {     -300.82        19.84      -310.25        32.58}
-  {     -300.82        19.84      -322.91        37.85}
-  {     -322.91        37.85      -323.20        38.24}
-  {     -322.91        37.85      -324.25        36.05}
-  {     -322.91        37.85      -332.06        36.31}
-  {     -322.91        37.85      -349.60        41.82}
-  {     -322.91        37.85      -336.05        41.16}
-  {     -322.91        37.85      -329.14        39.19}
-  {     -322.91        37.85      -330.73        42.22}
-  {     -322.91        37.85      -361.36        55.62}
-  {     -322.91        37.85      -360.15        54.67}
-  {     -322.91        37.85      -361.27        55.26}
-  {     -322.91        37.85      -360.14        54.51}
-  {     -300.82        19.84      -362.63        15.41}
-  {     -362.63        15.41      -369.20        12.20}
-  {     -362.63        15.41      -364.29        15.96}
-  {     -362.63        15.41      -364.42        11.33}
-  {     -362.63        15.41      -367.11        20.53}
-  {     -362.63        15.41      -386.86        12.63}
-  {     -362.63        15.41      -388.87        12.05}
-  {     -362.63        15.41      -387.84        20.72}
-  {     -362.63        15.41      -399.30        16.69}
-  {     -399.30        16.69      -399.55        17.22}
-  {     -399.30        16.69      -402.99         7.33}
-  {     -399.30        16.69      -404.11         7.58}
-  {     -399.30        16.69      -418.97        13.78}
-  {     -399.30        16.69      -412.36        17.66}
-  {     -399.30        16.69      -413.17        18.47}
-  {     -399.30        16.69      -408.62        12.54}
-  {     -399.30        16.69      -421.49         2.79}
-  {     -399.30        16.69      -407.02         9.26}
-  {     -399.30        16.69      -377.56        11.25}
-  {     -399.30        16.69      -378.99        14.88}
-  {     -399.30        16.69      -374.94        16.35}
-  {     -399.30        16.69      -417.41       -11.08}
-  {     -399.30        16.69      -418.34        -1.44}
-  {     -399.30        16.69      -429.14        -7.59}
-  {     -399.30        16.69      -414.63         3.31}
-  {     -399.30        16.69      -426.74       -15.79}
-  {     -426.74       -15.79      -427.94       -14.89}
-  {     -426.74       -15.79      -429.09         0.34}
-  {     -426.74       -15.79      -427.63        -5.48}
-  {     -426.74       -15.79      -438.23       -23.26}
-  {     -426.74       -15.79      -448.02       -25.62}
-  {     -426.74       -15.79      -457.65       -23.56}
-  {     -426.74       -15.79      -436.45       -17.07}
-  {     -426.74       -15.79      -446.68       -15.22}
-  {     -426.74       -15.79      -443.81       -12.68}
-  {     -426.74       -15.79      -410.65        15.16}
-  {     -426.74       -15.79      -422.75        -1.37}
-  {     -426.74       -15.79      -471.10       -26.68}
-  {     -471.10       -26.68      -470.63       -19.39}
-  {     -471.10       -26.68      -470.24       -22.98}
-  {     -471.10       -26.68      -459.18       -26.34}
-  {     -471.10       -26.68      -451.92       -25.59}
-  {     -471.10       -26.68      -455.33       -20.52}
-  {     -471.10       -26.68      -461.06       -22.55}
-  {     -471.10       -26.68      -461.15       -27.41}
-  {     -471.10       -26.68      -441.11       -33.24}
-  {     -471.10       -26.68      -450.05       -34.06}
-  {     -471.10       -26.68      -458.07       -26.66}
-  {     -471.10       -26.68      -452.65       -26.71}
-  {     -471.10       -26.68      -436.06       -32.92}
-  {     -436.06       -32.92      -445.55       -33.71}
-  {     -436.06       -32.92      -460.03       -33.01}
-  {     -436.06       -32.92      -410.76       -34.57}
-  {     -436.06       -32.92      -405.38       -29.13}
-  {     -436.06       -32.92      -388.74       -35.49}
-  {     -436.06       -32.92      -419.17       -32.99}
-  {     -436.06       -32.92      -423.84       -33.76}
-  {     -436.06       -32.92      -415.06       -38.27}
-  {     -436.06       -32.92      -400.37       -36.92}
-  {     -400.37       -36.92      -391.84       -35.94}
-  {     -400.37       -36.92      -399.75       -35.02}
-  {     -400.37       -36.92      -395.10       -28.80}
-  {     -400.37       -36.92      -388.41       -33.23}
-  {     -400.37       -36.92      -391.25       -33.57}
-  {     -400.37       -36.92      -392.06       -41.43}
-  {     -400.37       -36.92      -394.68       -45.40}
-  {     -400.37       -36.92      -392.06       -51.29}
-  {     -400.37       -36.92      -381.67       -45.91}
-  {     -400.37       -36.92      -375.47       -51.89}
+  {      110.50       209.89       119.74       211.10}
+  {      110.50       209.89       109.84       211.23}
+  {      110.50       209.89       103.37       209.25}
+  {      110.50       209.89        89.31       213.59}
+  {      110.50       209.89       101.09       223.63}
+  {      110.50       209.89       118.28       225.77}
+  {      110.50       209.89       100.53       246.39}
+  {      110.50       209.89       114.63       240.44}
+  {      110.50       209.89       111.16       230.15}
+  {      110.50       209.89       103.98       194.06}
+  {      110.50       209.89        89.65       193.23}
+  {      110.50       209.89       100.49       201.74}
+  {      110.50       209.89        95.23       198.72}
+  {      110.50       209.89        76.14       174.57}
+  {      110.50       209.89       101.92       200.80}
+  {      110.50       209.89       123.21       246.99}
+  {      110.50       209.89        79.36       181.75}
+  {      123.21       246.99       150.92       218.85}
+  {       79.36       181.75        91.14       181.07}
+  {       79.36       181.75        87.44       183.10}
+  {       79.36       181.75        91.03       187.37}
+  {       79.36       181.75       102.85       191.92}
+  {       79.36       181.75        82.54       172.79}
+  {       79.36       181.75        87.16       177.33}
+  {       79.36       181.75        86.59       186.38}
+  {       79.36       181.75        91.22       209.19}
+  {       79.36       181.75        85.79       198.22}
+  {       79.36       181.75        96.75       185.39}
+  {       79.36       181.75        92.46       174.13}
+  {       79.36       181.75       100.02       174.38}
+  {       79.36       181.75       105.25       167.83}
+  {       79.36       181.75        87.57       172.41}
+  {       79.36       181.75        76.39       185.53}
+  {       79.36       181.75        75.68       188.68}
+  {       79.36       181.75        84.88       198.35}
+  {       79.36       181.75        86.31       192.37}
+  {       79.36       181.75       101.44       172.70}
+  {      101.44       172.70        99.11       170.63}
+  {      101.44       172.70       102.13       177.51}
+  {      101.44       172.70       103.46       170.11}
+  {      101.44       172.70       116.93       166.20}
+  {      101.44       172.70       111.62       171.88}
+  {      101.44       172.70        75.88       181.83}
+  {      101.44       172.70       126.66       171.99}
+  {      101.44       172.70       113.94       165.35}
+  {      101.44       172.70        65.58       188.62}
+  {      101.44       172.70        92.54       181.24}
+  {      101.44       172.70        88.04       187.52}
+  {      101.44       172.70       122.05       168.99}
+  {      122.05       168.99       125.45       172.79}
+  {      122.05       168.99       132.57       195.31}
+  {      122.05       168.99       126.69       182.07}
+  {      122.05       168.99       126.90       175.29}
+  {      122.05       168.99       116.97       171.03}
+  {      122.05       168.99       124.88       166.59}
+  {      122.05       168.99       110.73       163.95}
+  {      122.05       168.99       116.89       168.67}
+  {      122.05       168.99       118.27       170.33}
+  {      122.05       168.99       113.53       171.65}
+  {      122.05       168.99       120.08       176.68}
+  {      122.05       168.99       138.51       179.20}
+  {      138.51       179.20       137.91       170.88}
+  {      138.51       179.20       134.95       178.67}
+  {      138.51       179.20       130.96       181.27}
+  {      138.51       179.20       133.29       181.07}
+  {      138.51       179.20       136.19       189.46}
+  {      138.51       179.20       126.45       191.73}
+  {      138.51       179.20       138.75       179.38}
+  {      138.51       179.20       148.55       176.39}
+  {      138.51       179.20       142.18       173.01}
+  {      138.51       179.20       133.95       168.54}
+  {      138.51       179.20       142.05       172.98}
+  {      138.51       179.20       138.50       169.34}
+  {      138.51       179.20       145.57       166.49}
+  {      138.51       179.20       146.71       174.84}
+  {      138.51       179.20       153.73       178.26}
+  {      138.51       179.20       160.64       181.84}
+  {      160.64       181.84       143.38       179.98}
+  {      160.64       181.84       144.22       178.84}
+  {      160.64       181.84       144.40       177.63}
+  {      160.64       181.84       156.01       177.51}
+  {      160.64       181.84       167.04       184.21}
+  {      160.64       181.84       162.54       183.34}
+  {      160.64       181.84       172.59       183.64}
+  {      160.64       181.84       167.58       182.47}
+  {      160.64       181.84       182.57       187.63}
+  {      138.51       179.20       130.76       180.03}
+  {      182.57       187.63       175.48       187.67}
+  {      130.76       180.03       131.52       180.01}
+  {      130.76       180.03       129.29       172.86}
+  {      130.76       180.03       128.80       174.71}
+  {      130.76       180.03       127.87       171.98}
+  {      130.76       180.03       122.20       172.18}
+  {      130.76       180.03       119.93       168.50}
+  {      130.76       180.03       124.39       169.02}
+  {      130.76       180.03       129.87       177.62}
+  {      130.76       180.03       121.70       166.29}
+  {      121.70       166.29       129.85       170.08}
+  {      121.70       166.29       123.15       172.31}
+  {      121.70       166.29       119.35       176.23}
+  {      121.70       166.29       116.56       166.71}
+  {      121.70       166.29       119.24       164.74}
+  {      121.70       166.29       127.68       165.58}
+  {      121.70       166.29       127.40       159.26}
+  {      121.70       166.29       123.68       157.95}
+  {      121.70       166.29       121.96       143.99}
+  {      121.70       166.29       114.24       139.15}
+  {      121.70       166.29       110.07       144.22}
+  {      121.70       166.29       112.12       151.21}
+  {      121.70       166.29        96.77       146.70}
+  {      121.70       166.29       102.45       138.75}
+  {      121.70       166.29       106.19       136.23}
+  {      121.70       166.29       106.28       122.94}
+  {      121.70       166.29        90.06       116.42}
+  {       90.06       116.42        74.37       112.54}
+  {       90.06       116.42        87.98       115.46}
+  {       90.06       116.42       105.86       117.32}
+  {       90.06       116.42       117.59       131.41}
+  {       90.06       116.42       115.63       142.09}
+  {       90.06       116.42        93.90       134.01}
+  {       90.06       116.42        81.18       136.96}
+  {       90.06       116.42        62.23       115.10}
+  {       90.06       116.42        75.77       116.75}
+  {       90.06       116.42        97.16       122.55}
+  {       90.06       116.42       113.16       140.00}
+  {       90.06       116.42       101.54       127.23}
+  {       90.06       116.42        87.71        97.23}
+  {       90.06       116.42       104.42       102.96}
+  {       90.06       116.42        90.10       108.60}
+  {       90.06       116.42        78.96       109.03}
+  {       90.06       116.42        50.63       104.68}
+  {       90.06       116.42        56.42        97.91}
+  {       90.06       116.42        64.75        99.03}
+  {       90.06       116.42        66.65        97.27}
+  {       90.06       116.42        68.28        93.37}
+  {       90.06       116.42        69.62        91.25}
+  {       90.06       116.42        80.43        98.28}
+  {       90.06       116.42        69.29        91.72}
+  {       90.06       116.42        75.07       103.82}
+  {       90.06       116.42        79.29        98.79}
+  {       90.06       116.42        65.03        92.59}
+  {       65.03        92.59        47.79        93.35}
+  {       65.03        92.59        68.77        93.61}
+  {       65.03        92.59        73.73        92.79}
+  {       65.03        92.59        38.72        93.01}
+  {       65.03        92.59        13.47        95.59}
+  {       65.03        92.59       -21.45        95.03}
+  {       65.03        92.59         0.26        93.60}
+  {       65.03        92.59        38.60        93.52}
+  {       65.03        92.59        45.63        97.55}
+  {       65.03        92.59        16.20        97.93}
+  {       65.03        92.59        57.84       103.55}
+  {       65.03        92.59        61.18       101.45}
+  {       65.03        92.59       -43.53        94.86}
+  {       65.03        92.59       -72.79        96.44}
+  {       65.03        92.59       -43.46        94.67}
+  {      -43.46        94.67       -38.43        95.49}
+  {      -43.46        94.67       -48.87        96.51}
+  {      -43.46        94.67       -42.49        99.45}
+  {      -43.46        94.67       -66.24        96.86}
+  {      -43.46        94.67       -79.80        94.61}
+  {      -43.46        94.67      -129.23        97.66}
+  {      -43.46        94.67       -94.40        92.62}
+  {      -43.46        94.67       -69.52        96.49}
+  {      -43.46        94.67       -60.58        99.57}
+  {      -43.46        94.67      -118.95        96.15}
+  {      -43.46        94.67       -94.62        99.18}
+  {      -43.46        94.67       -58.25        97.22}
+  {      -43.46        94.67       -24.41        92.04}
+  {      -43.46        94.67        14.51        95.52}
+  {      -43.46        94.67       -27.05        99.57}
+  {      -43.46        94.67        -9.37        94.03}
+  {      -43.46        94.67       -14.77        90.77}
+  {      -43.46        94.67       -35.45        90.55}
+  {      -43.46        94.67       -66.84        89.57}
+  {      -43.46        94.67       -81.48        89.19}
+  {      -43.46        94.67      -103.89        92.56}
+  {     -103.89        92.56       -84.30        93.63}
+  {     -103.89        92.56       -85.29        92.06}
+  {     -103.89        92.56       -89.14        98.81}
+  {     -103.89        92.56       -77.25        88.56}
+  {     -103.89        92.56       -92.22        87.31}
+  {     -103.89        92.56      -102.93        84.50}
+  {     -103.89        92.56      -110.39        76.03}
+  {     -103.89        92.56      -109.96        94.59}
+  {     -103.89        92.56      -122.36        95.43}
+  {     -103.89        92.56      -128.03        94.34}
+  {     -103.89        92.56      -127.69        94.08}
+  {     -103.89        92.56      -120.09        79.04}
+  {     -103.89        92.56      -118.48        75.63}
+  {     -103.89        92.56      -113.76        76.20}
+  {     -103.89        92.56      -123.19        82.28}
+  {     -103.89        92.56      -111.28        99.09}
+  {     -103.89        92.56      -120.30        95.23}
+  {     -103.89        92.56      -106.11        98.84}
+  {     -103.89        92.56      -108.18        82.49}
+  {     -108.18        82.49      -110.67        73.14}
+  {     -108.18        82.49      -109.02        74.86}
+  {     -108.18        82.49      -110.52        80.90}
+  {     -108.18        82.49      -113.29        88.73}
+  {     -108.18        82.49      -153.78        72.17}
+  {     -108.18        82.49      -179.62        80.10}
+  {     -108.18        82.49      -162.54        86.20}
+  {     -108.18        82.49      -144.99        89.26}
+  {     -108.18        82.49      -172.87        81.25}
+  {     -108.18        82.49      -128.09        83.72}
+  {     -108.18        82.49      -130.98        74.10}
+  {     -108.18        82.49       -89.86        90.40}
+  {     -108.18        82.49       -96.64        82.13}
+  {     -108.18        82.49       -95.15        84.42}
+  {     -108.18        82.49       -93.11        84.96}
+  {     -108.18        82.49      -100.39        84.91}
+  {     -108.18        82.49      -183.71        72.82}
+  {     -183.71        72.82      -183.88        71.88}
+  {     -183.71        72.82      -184.22        71.54}
+  {     -183.71        72.82      -186.35        82.34}
+  {     -183.71        72.82      -191.67        83.96}
+  {     -183.71        72.82      -184.73        77.83}
+  {     -183.71        72.82      -165.91        76.00}
+  {     -183.71        72.82      -148.71        77.65}
+  {     -183.71        72.82      -157.65        87.24}
+  {     -183.71        72.82      -181.08        73.64}
+  {     -183.71        72.82      -163.84        85.77}
+  {     -183.71        72.82      -153.33        78.43}
+  {     -183.71        72.82      -206.21        70.33}
+  {     -183.71        72.82      -202.52        73.93}
+  {     -183.71        72.82      -205.47        74.52}
+  {     -183.71        72.82      -200.50        81.48}
+  {     -183.71        72.82      -221.96        83.24}
+  {     -183.71        72.82      -218.36        74.64}
+  {     -183.71        72.82      -222.21        74.63}
+  {     -183.71        72.82      -228.94        79.66}
+  {     -228.94        79.66      -227.99        67.81}
+  {     -228.94        79.66      -225.54        74.89}
+  {     -228.94        79.66      -229.82        80.80}
+  {     -228.94        79.66      -230.12        85.74}
+  {     -228.94        79.66      -218.01        85.22}
+  {     -228.94        79.66      -217.41        75.13}
+  {     -228.94        79.66      -195.52        77.49}
+  {     -228.94        79.66      -187.78        74.83}
+  {     -228.94        79.66      -220.07        72.39}
+  {     -228.94        79.66      -222.61        75.39}
+  {     -228.94        79.66      -218.45        64.23}
+  {     -228.94        79.66      -225.08        66.09}
+  {     -228.94        79.66      -216.45        52.09}
+  {     -228.94        79.66      -214.52        48.86}
+  {     -228.94        79.66      -191.00        48.70}
+  {     -228.94        79.66      -203.80        53.21}
+  {     -228.94        79.66      -171.48        59.16}
+  {     -228.94        79.66      -185.81        65.84}
+  {     -228.94        79.66      -215.62        68.30}
+  {     -228.94        79.66      -200.39        74.53}
+  {     -228.94        79.66      -215.33        82.90}
+  {     -228.94        79.66      -152.83        77.66}
+  {     -228.94        79.66      -207.78        74.15}
+  {     -228.94        79.66      -217.46        72.48}
+  {     -217.46        72.48      -205.89        65.47}
+  {     -217.46        72.48      -192.50        73.17}
+  {     -217.46        72.48      -182.57        73.80}
+  {     -217.46        72.48      -183.99        70.93}
+  {     -217.46        72.48      -179.71        70.89}
+  {     -217.46        72.48      -201.38        70.56}
+  {     -217.46        72.48      -222.04        71.86}
+  {     -217.46        72.48      -170.38        16.42}
+  {     -217.46        72.48      -189.93        29.67}
+  {     -217.46        72.48      -209.90        46.05}
+  {     -217.46        72.48      -181.38        22.32}
+  {     -217.46        72.48      -194.64        37.56}
+  {     -217.46        72.48      -183.77        57.90}
+  {     -217.46        72.48      -203.35        77.16}
+  {     -217.46        72.48      -189.85       124.74}
+  {     -217.46        72.48      -176.29       122.42}
+  {     -217.46        72.48      -177.11        16.54}
+  {     -177.11        16.54      -183.61        18.73}
+  {     -177.11        16.54      -203.26        19.48}
+  {     -177.11        16.54      -247.37        23.74}
+  {     -177.11        16.54      -231.72        15.85}
+  {     -177.11        16.54      -236.53        17.68}
+  {     -177.11        16.54      -204.94        24.15}
+  {     -177.11        16.54      -186.77        26.02}
+  {     -177.11        16.54      -217.55        44.75}
+  {     -177.11        16.54      -214.14        59.83}
+  {     -177.11        16.54      -206.81        71.61}
+  {     -177.11        16.54      -212.72        77.17}
+  {     -177.11        16.54      -198.11        83.68}
+  {     -177.11        16.54      -204.83       106.45}
+  {     -177.11        16.54      -185.33        68.08}
+  {     -177.11        16.54      -186.19        64.01}
+  {     -177.11        16.54      -166.48        27.32}
+  {     -177.11        16.54      -226.75        25.65}
+  {     -177.11        16.54      -152.69        19.84}
+  {     -152.69        19.84      -148.12        19.94}
+  {     -152.69        19.84      -145.44        21.28}
+  {     -152.69        19.84      -147.94        13.98}
+  {     -152.69        19.84      -137.55        17.52}
+  {     -152.69        19.84      -120.37        12.42}
+  {     -152.69        19.84      -115.86        19.51}
+  {     -152.69        19.84      -134.25        24.88}
+  {     -152.69        19.84      -149.74        29.04}
+  {     -152.69        19.84      -137.95        33.33}
+  {     -152.69        19.84      -145.41        22.77}
+  {     -152.69        19.84      -141.19        28.64}
+  {     -152.69        19.84      -137.46        33.83}
+  {     -152.69        19.84      -143.47        28.32}
+  {     -152.69        19.84      -136.46        35.09}
+  {     -152.69        19.84      -143.01        32.58}
+  {     -152.69        19.84      -130.60        37.85}
+  {     -130.60        37.85      -134.90        38.24}
+  {     -130.60        37.85      -129.25        36.05}
+  {     -130.60        37.85      -121.45        36.31}
+  {     -130.60        37.85      -103.90        41.82}
+  {     -130.60        37.85      -117.46        41.16}
+  {     -130.60        37.85      -124.36        39.19}
+  {     -130.60        37.85      -122.77        42.22}
+  {     -130.60        37.85       -92.14        55.62}
+  {     -130.60        37.85       -93.35        54.67}
+  {     -130.60        37.85       -92.23        55.26}
+  {     -130.60        37.85       -93.36        54.51}
+  {     -152.69        19.84       -90.88        15.41}
+  {      -90.88        15.41       -84.30        12.20}
+  {      -90.88        15.41       -89.21        15.96}
+  {      -90.88        15.41       -89.08        11.33}
+  {      -90.88        15.41       -86.40        20.53}
+  {      -90.88        15.41       -66.64        12.63}
+  {      -90.88        15.41       -64.63        12.05}
+  {      -90.88        15.41       -65.67        20.72}
+  {      -90.88        15.41       -54.21        16.69}
+  {      -54.21        16.69       -53.96        17.22}
+  {      -54.21        16.69       -50.52         7.33}
+  {      -54.21        16.69       -49.40         7.58}
+  {      -54.21        16.69       -34.53        13.78}
+  {      -54.21        16.69       -41.15        17.66}
+  {      -54.21        16.69       -40.33        18.47}
+  {      -54.21        16.69       -44.88        12.54}
+  {      -54.21        16.69       -32.01         2.79}
+  {      -54.21        16.69       -46.48         9.26}
+  {      -54.21        16.69       -76.52        11.25}
+  {      -54.21        16.69       -75.44        14.88}
+  {      -54.21        16.69       -78.69        16.35}
+  {      -54.21        16.69       -36.09       -11.08}
+  {      -54.21        16.69       -35.16        -1.44}
+  {      -54.21        16.69       -24.36        -7.59}
+  {      -54.21        16.69       -38.88         3.31}
+  {      -54.21        16.69       -26.76       -15.79}
+  {      -26.76       -15.79       -25.56       -14.89}
+  {      -26.76       -15.79       -24.42         0.34}
+  {      -26.76       -15.79       -28.12        -5.48}
+  {      -26.76       -15.79       -15.27       -23.26}
+  {      -26.76       -15.79        -5.48       -25.62}
+  {      -26.76       -15.79         4.15       -23.56}
+  {      -26.76       -15.79       -17.06       -17.07}
+  {      -26.76       -15.79        -6.82       -15.22}
+  {      -26.76       -15.79        -9.70       -12.68}
+  {      -26.76       -15.79       -43.26        15.16}
+  {      -26.76       -15.79       -29.95        -1.37}
+  {      -26.76       -15.79        17.59       -26.68}
+  {       17.59       -26.68        17.12       -19.39}
+  {       17.59       -26.68        20.96       -22.98}
+  {       17.59       -26.68         5.68       -26.34}
+  {       17.59       -26.68        -0.70       -25.59}
+  {       17.59       -26.68         7.87       -20.52}
+  {       17.59       -26.68         7.55       -22.55}
+  {       17.59       -26.68         7.64       -27.41}
+  {       17.59       -26.68       -12.39       -33.24}
+  {       17.59       -26.68        -3.46       -34.06}
+  {       17.59       -26.68         4.57       -26.66}
+  {       17.59       -26.68        -0.85       -26.71}
+  {       17.59       -26.68       -17.45       -32.92}
+  {      -17.45       -32.92       -24.63       -33.71}
+  {      -17.45       -32.92       -14.97       -33.01}
+  {      -17.45       -32.92       -42.74       -34.57}
+  {      -17.45       -32.92       -48.12       -29.13}
+  {      -17.45       -32.92       -64.76       -35.49}
+  {      -17.45       -32.92       -34.34       -32.99}
+  {      -17.45       -32.92       -29.67       -33.76}
+  {      -17.45       -32.92       -38.45       -38.27}
+  {      -17.45       -32.92       -53.13       -36.92}
+  {      -53.13       -36.92       -61.67       -35.94}
+  {      -53.13       -36.92       -53.76       -35.02}
+  {      -53.13       -36.92       -58.40       -28.80}
+  {      -53.13       -36.92       -65.10       -33.23}
+  {      -53.13       -36.92       -62.26       -33.57}
+  {      -53.13       -36.92       -61.45       -41.43}
+  {      -53.13       -36.92       -58.83       -45.40}
+  {      -53.13       -36.92       -61.44       -51.29}
+  {      -53.13       -36.92       -71.84       -45.91}
+  {      -53.13       -36.92       -78.04       -51.89}
 }
 set XVIgrid  {-1448.5 -489.22 39.3701 0.0 0.0 39.3701 74 25}

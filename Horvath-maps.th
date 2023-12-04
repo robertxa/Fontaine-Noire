@@ -42,12 +42,16 @@ map MC-Horvath-1 -title "Fontaine Noire - Grotte Horvath"
 	SC-Horvath-5
 	break
 	SC-Horvath-7
+	break
+	SC-Horvath-9
 endmap
 
 map MC-Horvath-2 -title "Fontaine Noire - Grotte Horvath"
 	SC-Horvath-4
 	break
 	SC-Horvath-6
+	break
+	SC-Horvath-8
 endmap
 
 map MC-Horvath-coupe -title "Fontaine Noire - Grotte Horvath"
