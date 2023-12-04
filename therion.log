@@ -52,7 +52,7 @@ S     0.00 SC-Horvath-8@Horvath ()
 ########## end of export maps & scraps selection ###############
 writing Outputs/Horvath-coupe.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.999 (TeX Live 2015) (kpathsea version 6.2.1)  4 DEC 2023 09:26
+This is MetaPost, version 1.999 (TeX Live 2015) (kpathsea version 6.2.1)  4 DEC 2023 10:32
 **data.mp
 (/usr/local/texlive/2015/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2015/texmf-dist/metapost/base/plain.mp
@@ -87,7 +87,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2016.5.13)  4 DEC 2023 09:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2016.5.13)  4 DEC 2023 10:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -142,7 +142,7 @@ S  1174.46 SP-Horvath-1@Horvath ()
 ########## end of export maps & scraps selection ###############
 writing Outputs/Horvath-plan.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 1.999 (TeX Live 2015) (kpathsea version 6.2.1)  4 DEC 2023 09:26
+This is MetaPost, version 1.999 (TeX Live 2015) (kpathsea version 6.2.1)  4 DEC 2023 10:32
 **data.mp
 (/usr/local/texlive/2015/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2015/texmf-dist/metapost/base/plain.mp
@@ -171,7 +171,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2016.5.13)  4 DEC 2023 09:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2016.5.13)  4 DEC 2023 10:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -210,8 +210,8 @@ done
 writing Outputs/Horvath.lox .............. done
 writing Outputs/Horvath.kml ... done
 writing Outputs/Horvath-filaire.kml ... done
-writing xtherion file ... done
-compilation time: 4 sec
+writing Outputs/survey.html ... done
+compilation time: 6 sec
 
 
 ######################### loop errors ##########################

@@ -346,3 +346,5 @@ export model -o Outputs/Horvath.lox
 # Export des fichiers kml
 export map -proj plan -fmt kml -o Outputs/Horvath.kml -layout my_layout
 export model -fmt kml -o Outputs/Horvath-filaire.kml
+
+export survey-list -o Outputs/survey.html
