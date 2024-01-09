@@ -34,18 +34,54 @@ survey Horvath-S2 -title "Résurgence de Fontaine Noire - Grotte Horvath"
 12          13         114            122.0  120.00  -16.7 -21.00   2.00   0.00   4.00   0.00
 13          14         122            134.0  120.00  -21 -22.30   1.50   0.00   3.00   0.00  # Marmite
 14          15         134            152.0  120.00  -22.30  -30.30   3.00   0.00   1.50   0.00
-15          16         152             157.0  180.00 -30.30   -30.20   1.50   0.00   2.00   0.00  # Fil à relacer correctement
+15          16         152             157.0  180.00 -30.30   -30.20   1.50   0.00   2.00   0.00  # Fil à replacer correctement
 16          17         157             168.0  150.00  -30.20 -26.60   0.00   2.00   2.00   0.00
-17          18         168             174.0  150.00  -26.6  -27.20   1.00   1.00   1.00   0.00 # terminus topo
+17          18         168             175.0  150.00  -26.6  -27.20   1.00   1.00   1.00   0.00 # terminus topo
 
-  data diving from to fromcount tocount compass fromdepth todepth
-  extend right
-    flags approx
-    # Topo estimée par S. Lips, à refaire plus précisément ?
-      18  18b 174 199 140 -27.20  -27.20  # Terminus Bertrand Léger
-      18b 18c 199 206 140 -27.20  -20.20
-      18c 18d 206 216 140 -20.20  -20.20
-    flags not approx
+endcenterline
+
+centerline
+
+    date 2024.01.05 
+      team "Stéphane Lips"
+    explo-date 1987
+      explo-team "Frédéric Poggia"
+    units counter depth meters
+    units compass degrees
+    data diving from to fromcount tocount compass fromdepth todepth left right up down
+    extend right
+18          19                 175     182  110.00  -27.2 -27.20   1.00   1.00   0.80   0.00
+19          20                 182     186   80.00  -27.2 -27.80   1.00   1.00   0.80   0.00 # Zone étroite
+20          21                 186     189  190.00  -27.8 -28.60   2.00   1.00   7.00   0.00
+21          22                 189     198  110.00  -28.6  -23.10   1.50   1.30   1.50   0.00 # Puits remontant
+22          23                 198     201  180.00  -23.1 -22.80   0.00   2.00   1.50   0.00
+23          24                 201     209  100.00  -22.8 -22.00   0.80   0.80   1.30   0.00
+24          25                 209     218  180.00  -22.0 -20.40   0.80   0.80   1.20   0.00
+25          26                 218     228  160.00  -20.4 -20.80   1.00   1.00   1.00   0.00
+26          27                 228     235  110.00  -20.8 -19.10   1.00   1.00   1.00   0.00
+27          28                 235     243  175.00  -19.8 -18.80   1.00   1.00   1.00   0.00
+28          29                 243     256   50.00  -18.8 -21.40   1.00   1.00   1.00   0.00
+29          30                 256     266   60.00  -21.4 -22.10   1.00   1.00   1.00   0.00
+30          31                 266     278  100.00  -22.1 -23.50   1.00   1.00   1.00   0.00
+31          32                 278     283  110.00  -23.5 -22.10   1.00   1.00   1.00   0.00  # Terminus Freddo Poggia
+
+  explo-date 2024.01.05 
+      explo-team "Cédric Lacharmoise"
+  32          33                 283     290.0  140.00  -22.1 -20.80   1.00   1.00   1.00   0.00
+
+  flags approx
+    33         34             290.0     298.0   70.00  -20.8  -13.50   0.50   0.50   1.00   5.00 # Visée fictive : cheminée étroite à forcer
+    33         35             290.0     293.0  140.00  -20.8  -20.80   0.60   0.60   0.60   0.00 # visée fictive : étroiture ensablée, à franchir en latéral et/ou à creuser dans le sable
+  flags not approx
+
+  #data diving from to fromcount tocount compass fromdepth todepth
+  #extend right
+  #  flags approx
+  #  # Topo estimée par S. Lips, à refaire plus précisément ?
+  #    18  18b 174 199 140 -27.20  -27.20  # Terminus Bertrand Léger
+  #    18b 18c 199 206 140 -27.20  -20.20
+  #    18c 18d 206 216 140 -20.20  -20.20
+  #  flags not approx
 
   endcenterline
 
