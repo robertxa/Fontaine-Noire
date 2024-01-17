@@ -1,6 +1,6 @@
 encoding  utf-8
 ##XTHERION## xth_me_area_adjust -654.691 -638.786 2711.5469000000003 1034.5376
-##XTHERION## xth_me_area_zoom_to 400
+##XTHERION## xth_me_area_zoom_to 200
 ##XTHERION## xth_me_image_insert {526.6990000000001 1 1.0} {392.676 0@Horvath.Horvath} Horvath-map.xvi 0 {}
 
 
@@ -71,7 +71,7 @@ endline
 
 point -237.63099999999997 315.63599999999997 station -name Horvath2
 
-point -397.75 328.0 label -text "<center><bf>grotte<br>Horvath 2" -scale xl
+point -397.75 328.0 label -text "<center><bf>trou<br>Saspitt" -scale xl
 
 point -230.77099999999984 304.14599999999996 station -name 1
 
@@ -1497,7 +1497,7 @@ line water-flow
   smooth off
 endline
 
-point 145.5 -39.25 label -text "S3"
+point 119.5 -43.75 label -text "<center>S3<br>(6 m)"
 
 area water -place bottom
   l256-288-151
@@ -2803,7 +2803,7 @@ line wall -subtype pit -outline none -clip off
   smooth off
 endline
 
-point 409.25 602.5 label -text "S1"
+point 409.25 602.5 label -text "<center>S1<br>(80 m, -5 m)"
 
 area sump
   l341-439-511

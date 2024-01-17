@@ -16,7 +16,7 @@ layout Entrances_coords_Horvath
 		\def\thjunk{ }
 		\def\thlocationFNoire{Fontaine Noire    --  Lat. : 45.32992 N ; Long. : 5.85676 E ; Alt. : 1171 m}
 		\def\thlocationHorvath{Grotte Horvath    --  Lat. : 45.32960 N ; Long. : 5.85652 E ; Alt. : 1173 m}
-		\def\thlocationHorvathb{Grotte Horvath 2    --  Lat. : 45.32955 N ; Long. : 5.85645 E ; Alt. : 1173 m}
+		\def\thlocationHorvathb{Trou Saspitt    --  Lat. : 45.32955 N ; Long. : 5.85645 E ; Alt. : 1173 m}
 	endcode 
 	
 endlayout

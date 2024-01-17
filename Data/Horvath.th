@@ -19,8 +19,13 @@ survey Horvath -title "Résurgence de Fontaine Noire - Grotte Horvath"
       team "Xavier Robert"
     explo-date 1975 
       explo-team "Bertrand Léger"
+      explo-team "Philippe Ackerman"
+      explo-team "P. Dubille"
     explo-date 1984.10.18 
       explo-team "Bertrand Léger" 
+    explo-date 1984
+      explo-team "Patrick Floutier"
+      explo-team "Thierry Marchamp"
     explo-date 1986
       explo-team "FLT"
     explo-date 2003

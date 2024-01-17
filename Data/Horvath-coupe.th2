@@ -7,7 +7,7 @@ encoding  utf-8
 
 scrap SC-Horvath2-1 -projection extended -station-names "" "@Horvath2" -author 2023 "Xavier Robert" -copyright 2023 "licence CCby-nc-sa : http://creativecommons.org/licenses/by-nc-sa/4.0/" -scale [-128.0 -128.0 2962.6472 -128.0 0.0 0.0 78.50243888 0.0 m]
 
-point 410.5 513.75 label -text "<center><bf>grotte<br>Horvath 2" -scale xl
+point 410.5 513.75 label -text "<center><bf>Trou<br>Saspitt" -scale xl
 
 point 506.25 471.5 entrance -orientation 99.7
 
@@ -79,7 +79,7 @@ scrap SC-FNoire-1 -projection extended -station-names "" "@Horvath" -author 2023
 
 point 246.5 360.5 label -text "captage"
 
-point 538.0 333.5 label -text "S1"
+point 538.0 333.5 label -text "S1 (80 m, -5 m)"
 
 point 124.0 480.5 label -text "<center><bf>Fontaine<br>Noire" -scale xl
 
@@ -267,8 +267,8 @@ line wall -subtype presumed
   600.75 378.0 576.75 373.0 564.75 372.25
   552.75 371.5 503.75 370.5 495.25 374.0
   486.75 377.5 480.5 379.75 474.5 383.5
-  468.5 387.25 429.25 406.25 423.5 406.75
-  417.75 407.25 338.5 411.0 330.75 410.5
+  468.5 387.25 429.24 406.38 423.5 406.75
+  412.0 407.5 338.5 411.0 330.75 410.5
   323.0 410.0 289.75 410.0 283.75 410.0
   277.75 410.0 261.25 409.5 261.25 409.5
   smooth off
@@ -1476,7 +1476,7 @@ line wall -subtype presumed
   smooth off
 endline
 
-point 1341.5 396.5 label -text "S3"
+point 1341.5 396.5 label -text "<center>S3<br>(6 m)"
 
 area sump
   l194-1279-419

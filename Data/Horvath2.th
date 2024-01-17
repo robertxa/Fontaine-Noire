@@ -7,7 +7,7 @@ survey Horvath2 -title "Porche Horvath 2"
     cs long-lat
     fix Horvath2 5.85645  45.32955  1173
 
-    station Horvath2 "Porche Horvath n°2" entrance
+    station Horvath2 "Trou Saspitt" entrance
 
     date 2023.11.26 
       team "Xavier Robert"

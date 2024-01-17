@@ -6,6 +6,9 @@ survey Horvathb -title "Horvathb"
     date 2023.12.03 
       team "Xavier Robert"
       team "Clément Baudy"
+    explo-date 1984
+      explo-team "Thierry Marchamp"
+      explo-team "Frédéric Poggia"
     units length meters
     units compass clino degrees
     data normal from to length compass clino
