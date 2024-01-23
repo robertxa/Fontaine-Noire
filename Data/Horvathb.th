@@ -7,7 +7,7 @@ survey Horvathb -title "Horvathb"
       team "Xavier Robert"
       team "Clément Baudy"
     explo-date 1984
-      explo-team "Thierry Marchamp"
+      explo-team "Thierry Marchand"
       explo-team "Frédéric Poggia"
     units length meters
     units compass clino degrees
